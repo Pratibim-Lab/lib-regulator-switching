@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP16311x-xMNY:MCP16311x-xMNY",
+  "name": "MCP16311x-xMNY",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP16311x-xMNY.kicad_sym",
+  "description": "1A Output Voltage, 30V Input, integrated switch step-down regulator, PFM/PWM modulation, DFN-8",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP16311-Family-Data-Sheet-DS20005255C.pdf",
+  "keywords": "switching buck converter power-supply voltage regulator",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP16311x-xMNY/",
+  "part_path": "parts/MCP16311x-xMNY",
+  "symbol_file": "parts/MCP16311x-xMNY/MCP16311x-xMNY.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.079Z"
+}

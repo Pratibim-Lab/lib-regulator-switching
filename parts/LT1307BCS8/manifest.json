@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT1307BCS8:LT1307BCS8",
+  "name": "LT1307BCS8",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT1307BCS8.kicad_sym",
+  "description": "Single Cell Micropower 600kHz PWM DC/DC Converter, 10µA Quiescent Current, SO-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1307fa.pdf",
+  "keywords": "Micropower PWM DC/DC Converter",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LT1307CS8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT1307BCS8/",
+  "part_path": "parts/LT1307BCS8",
+  "symbol_file": "parts/LT1307BCS8/LT1307BCS8.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.686Z"
+}

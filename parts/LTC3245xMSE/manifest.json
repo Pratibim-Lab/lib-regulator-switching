@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3245xMSE:LTC3245xMSE",
+  "name": "LTC3245xMSE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3245xMSE.kicad_sym",
+  "description": "Wide VIN Range, Low Noise, 250mA Buck-Boost Charge Pump, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc3245.pdf",
+  "keywords": "widerange  lownoise buckboost chargepump",
+  "footprint": "Package_SO:MSOP-12-1EP_3x4.039mm_P0.65mm_EP1.651x2.845mm",
+  "extends": "LTC3245xDE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3245xMSE/",
+  "part_path": "parts/LTC3245xMSE",
+  "symbol_file": "parts/LTC3245xMSE/LTC3245xMSE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.792Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP6503:AP6503",
+  "name": "AP6503",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP6503.kicad_sym",
+  "description": "340kHz 23V 3A Synchonous DC/DC Buck Converter",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP6503.pdf",
+  "keywords": "buck switching converter",
+  "footprint": "",
+  "extends": "AP6502",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP6503/",
+  "part_path": "parts/AP6503",
+  "symbol_file": "parts/AP6503/AP6503.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.429Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LV2862XDDC:LV2862XDDC",
+  "name": "LV2862XDDC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LV2862XDDC.kicad_sym",
+  "description": "60V, 0.6A, stepdown, DC/DC converter, 770kHz",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lv2862.pdf",
+  "keywords": "step down DCDC converter regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "LMR16006YQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LV2862XDDC/",
+  "part_path": "parts/LV2862XDDC",
+  "symbol_file": "parts/LV2862XDDC/LV2862XDDC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.948Z"
+}

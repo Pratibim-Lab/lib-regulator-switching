@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR50410:LMR50410",
+  "name": "LMR50410",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR50410.kicad_sym",
+  "description": "Simple Switcher Buck Regulator, Vin=4-36V, Iout=1A, Adjustable output voltage, SOT-23-6 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr50410.pdf",
+  "keywords": "simple-switcher buck step-down voltage-regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR50410/",
+  "part_path": "parts/LMR50410",
+  "symbol_file": "parts/LMR50410/LMR50410.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.409Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AAT1217ICA-1.2:AAT1217ICA-1.2",
+  "name": "AAT1217ICA-1.2",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AAT1217ICA-1.2.kicad_sym",
+  "description": "600mA, 2.5-5.5V, 1.2MHz, Micropower Synchronous Step-Up Converter, TSOT-23-6",
+  "datasheet": "http://www.skyworksinc.com/uploads/documents/AAT1217_202050B.pdf",
+  "keywords": "regulator step-up adjustable",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AAT1217ICA-1.2/",
+  "part_path": "parts/AAT1217ICA-1.2",
+  "symbol_file": "parts/AAT1217ICA-1.2/AAT1217ICA-1.2.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.197Z"
+}

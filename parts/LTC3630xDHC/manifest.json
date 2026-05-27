@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3630xDHC:LTC3630xDHC",
+  "name": "LTC3630xDHC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3630xDHC.kicad_sym",
+  "description": "500mA High efficiency 65V synchronous step-down converter, DFN-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3630fd.pdf",
+  "keywords": "buck dc-dc switcher switching",
+  "footprint": "Package_DFN_QFN:DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3630xDHC/",
+  "part_path": "parts/LTC3630xDHC",
+  "symbol_file": "parts/LTC3630xDHC/LTC3630xDHC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.921Z"
+}

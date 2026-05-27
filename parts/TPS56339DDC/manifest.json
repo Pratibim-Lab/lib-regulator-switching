@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS56339DDC:TPS56339DDC",
+  "name": "TPS56339DDC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS56339DDC.kicad_sym",
+  "description": "4.5V to 24V Input, 3-A Output Synchronous Buck Converter, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps56339.pdf",
+  "keywords": "step-down dcdc voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS56339DDC/",
+  "part_path": "parts/TPS56339DDC",
+  "symbol_file": "parts/TPS56339DDC/TPS56339DDC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.578Z"
+}

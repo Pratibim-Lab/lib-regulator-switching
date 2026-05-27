@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54233:TPS54233",
+  "name": "TPS54233",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54233.kicad_sym",
+  "description": "2A, Step Down DC-DC Converter with Eco-mode, 3.5-28V Input Voltage, SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps54233.pdf",
+  "keywords": "Step-Down DC-DC Switching Regulator High Voltage High Frequency",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54233/",
+  "part_path": "parts/TPS54233",
+  "symbol_file": "parts/TPS54233/TPS54233.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.516Z"
+}

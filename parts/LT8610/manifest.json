@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT8610:LT8610",
+  "name": "LT8610",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT8610.kicad_sym",
+  "description": "42V, 2.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, MSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8610.pdf",
+  "keywords": "high efficiency speed synchronous monolithic buck step-down switching regulator 42V 2.5A",
+  "footprint": "Package_SO:MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT8610/",
+  "part_path": "parts/LT8610",
+  "symbol_file": "parts/LT8610/LT8610.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.757Z"
+}

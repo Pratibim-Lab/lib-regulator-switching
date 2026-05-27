@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2733XMF:LM2733XMF",
+  "name": "LM2733XMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2733XMF.kicad_sym",
+  "description": "LM27313, 1A, 40Vout Boost Voltage Regulator, 1.6MHz Frequency, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2733.pdf",
+  "keywords": "Miniature Step-Up Boost Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LMR10510XMF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2733XMF/",
+  "part_path": "parts/LM2733XMF",
+  "symbol_file": "parts/LM2733XMF/LM2733XMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.247Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS63031DSK:TPS63031DSK",
+  "name": "TPS63031DSK",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS63031DSK.kicad_sym",
+  "description": "Buck-Boost Converter, 1.8-5.5V Input Voltage, 1A Switch Current, 3.3V Output Voltage, VSON-10 (DSK0010A)",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps63031.pdf",
+  "keywords": "Buck-Boost fixed 3.3V converter",
+  "footprint": "Package_SON:WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm",
+  "extends": "TPS63030DSK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS63031DSK/",
+  "part_path": "parts/TPS63031DSK",
+  "symbol_file": "parts/TPS63031DSK/TPS63031DSK.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.844Z"
+}

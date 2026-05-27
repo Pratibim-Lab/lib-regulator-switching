@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/L4962EH-A:L4962EH-A",
+  "name": "L4962EH-A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/L4962EH-A.kicad_sym",
+  "description": "1.5A Power Switching Regulator, 9..46V input, 5.1..40V output, 150 kHz, TO-220-7 (Heptawatt H)",
+  "datasheet": "https://www.mouser.com/datasheet/2/389/cd00000076-1795191.pdf",
+  "keywords": "buck step-down dc-dc converter L4962EH/A Obsolete",
+  "footprint": "Package_TO_SOT_THT:TO-220-7_P2.54x5.1mm_StaggerOdd_Lead8.025mm_TabDown",
+  "extends": "L4962E-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/L4962EH-A/",
+  "part_path": "parts/L4962EH-A",
+  "symbol_file": "parts/L4962EH-A/L4962EH-A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.669Z"
+}

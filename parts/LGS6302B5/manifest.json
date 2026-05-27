@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LGS6302B5:LGS6302B5",
+  "name": "LGS6302B5",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LGS6302B5.kicad_sym",
+  "description": "1.5A, 1.2MHz Boost DC/DC Converter, adjustable 3-60V output voltage, SOT-23-5",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/2304071430_Legend-Si-LGS6302_C5123975.pdf",
+  "keywords": "step-up",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LGS6302B5/",
+  "part_path": "parts/LGS6302B5",
+  "symbol_file": "parts/LGS6302B5/LGS6302B5.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.694Z"
+}

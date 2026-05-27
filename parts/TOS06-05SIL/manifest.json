@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOS06-05SIL:TOS06-05SIL",
+  "name": "TOS06-05SIL",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOS06-05SIL.kicad_sym",
+  "description": "6A step-down regulator, 0.75-3.3VDC output voltage, 2.4-5.5VDC input voltage, SIP-9",
+  "datasheet": "https://www.tracopower.com/products/tos06sil.pdf",
+  "keywords": "Traco non-isolated pol dcdc converter single",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TOS06-05SIL_THT",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOS06-05SIL/",
+  "part_path": "parts/TOS06-05SIL",
+  "symbol_file": "parts/TOS06-05SIL/TOS06-05SIL.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.494Z"
+}

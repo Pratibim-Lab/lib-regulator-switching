@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3442:LTC3442",
+  "name": "LTC3442",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3442.kicad_sym",
+  "description": "Micropower Synchronous Buck-Boost DC/DC Converter with Automatic Burst Mode Operation, DFN-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3442fb.pdf",
+  "keywords": "Micropower Synchronous Buck-Boost DC/DC Converter",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3442/",
+  "part_path": "parts/LTC3442",
+  "symbol_file": "parts/LTC3442/LTC3442.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.825Z"
+}

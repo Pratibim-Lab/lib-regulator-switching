@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK418LG:LNK418LG",
+  "name": "LNK418LG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK418LG.kicad_sym",
+  "description": "LinkSwitch-PH Family, 35W Output Power, eSIP-7F",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf",
+  "keywords": "LED Driver IC, Single-Stage PFC and Primary-Side Constant Current Control",
+  "footprint": "Package_SIP:PowerIntegrations_eSIP-7F",
+  "extends": "LNK403LG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK418LG/",
+  "part_path": "parts/LNK418LG",
+  "symbol_file": "parts/LNK418LG/LNK418LG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.549Z"
+}

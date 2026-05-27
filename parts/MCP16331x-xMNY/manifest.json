@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP16331x-xMNY:MCP16331x-xMNY",
+  "name": "MCP16331x-xMNY",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP16331x-xMNY.kicad_sym",
+  "description": "High-Voltage Input Integrated Switch Step-Down Regulator, VDD +4.4V to 50V, Out +2.0V to +24V, TDFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005308C.pdf",
+  "keywords": "High-Voltage Input Integrated Switch Step-Down Regulator",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP16331x-xMNY/",
+  "part_path": "parts/MCP16331x-xMNY",
+  "symbol_file": "parts/MCP16331x-xMNY/MCP16331x-xMNY.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.100Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ST1S10PUR:ST1S10PUR",
+  "name": "ST1S10PUR",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ST1S10PUR.kicad_sym",
+  "description": "3A monolithic synchronous step-down regulator, Adjustable Output Voltage, 2.5-18V Input Voltage, 900kHz, DFN-8",
+  "datasheet": "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00169322.pdf",
+  "keywords": "DC/DC Buck Conwerter 3A Low Voltage Input",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ST1S10PUR/",
+  "part_path": "parts/ST1S10PUR",
+  "symbol_file": "parts/ST1S10PUR/ST1S10PUR.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.698Z"
+}

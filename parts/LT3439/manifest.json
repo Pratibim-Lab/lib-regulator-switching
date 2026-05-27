@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3439:LT3439",
+  "name": "LT3439",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3439.kicad_sym",
+  "description": "1A Slew Rate Controlled Ultralow Noise Isolated DC/DC Transformer Driver, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3439fs.pdf",
+  "keywords": "Isolated DC/DC Transformer Driver",
+  "footprint": "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3439/",
+  "part_path": "parts/LT3439",
+  "symbol_file": "parts/LT3439/LT3439.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.721Z"
+}

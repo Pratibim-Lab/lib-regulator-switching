@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61041DRV:TPS61041DRV",
+  "name": "TPS61041DRV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61041DRV.kicad_sym",
+  "description": "Synchronous Boost Regulator, Adjustable Output up to 28V, 250 mA Switch Current Limit, WSON-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61040.pdf",
+  "keywords": "Step-Up Boost DC-DC Regulator Adjustable",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61041DRV/",
+  "part_path": "parts/TPS61041DRV",
+  "symbol_file": "parts/TPS61041DRV/TPS61041DRV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.604Z"
+}

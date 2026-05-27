@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/VIPer26HN:VIPer26HN",
+  "name": "VIPer26HN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/VIPer26HN.kicad_sym",
+  "description": "800V, 10-20W, 115kHz, SMPS Controller, DIP-7",
+  "datasheet": "https://www.st.com/resource/en/datasheet/viper26.pdf",
+  "keywords": "SMPS Controller with MOSFET",
+  "footprint": "Package_DIP:DIP-8-N6_W7.62mm",
+  "extends": "VIPer26LN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/VIPer26HN/",
+  "part_path": "parts/VIPer26HN",
+  "symbol_file": "parts/VIPer26HN/VIPer26HN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.871Z"
+}

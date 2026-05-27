@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/FSBH0370:FSBH0370",
+  "name": "FSBH0370",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/FSBH0370.kicad_sym",
+  "description": "Green Mode Fairchild Power Switch, 700V Vds, 3.0A Id, 25W/19W 230V/85-265V, VIN Pin, DIP-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/FSBH0270-D.PDF",
+  "keywords": "smps regulator",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "FSBH0170",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/FSBH0370/",
+  "part_path": "parts/FSBH0370",
+  "symbol_file": "parts/FSBH0370/FSBH0370.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.552Z"
+}

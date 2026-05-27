@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM22676MR-ADJ:LM22676MR-ADJ",
+  "name": "LM22676MR-ADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM22676MR-ADJ.kicad_sym",
+  "description": "3A Step-Down Switching Voltage Regulater, 4.5-42V Input, Adjustable Output, 500kHz Switching Frequency, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm22676.pdf",
+  "keywords": "DC/DC Buck Converter 3A",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM22676MR-ADJ/",
+  "part_path": "parts/LM22676MR-ADJ",
+  "symbol_file": "parts/LM22676MR-ADJ/LM22676MR-ADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.699Z"
+}

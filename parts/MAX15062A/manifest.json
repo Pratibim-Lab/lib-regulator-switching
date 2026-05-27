@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX15062A:MAX15062A",
+  "name": "MAX15062A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX15062A.kicad_sym",
+  "description": "60V, 300mA, synchronous step-down dc-dc converter, 3.3V fixed output voltage, DFN-8",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX15062.pdf",
+  "keywords": "step-down dc-dc switching regulator",
+  "footprint": "Package_DFN_QFN:DFN-8_2x2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX15062A/",
+  "part_path": "parts/MAX15062A",
+  "symbol_file": "parts/MAX15062A/MAX15062A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.954Z"
+}

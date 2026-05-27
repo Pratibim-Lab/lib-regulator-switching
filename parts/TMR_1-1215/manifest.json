@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TMR_1-1215:TMR_1-1215",
+  "name": "TMR_1-1215",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TMR_1-1215.kicad_sym",
+  "description": "42mA Regulated 1W DC/DC converter with 1.5kV isolation, 9V-18V input, 24V fixed Output Voltage, SIP-6",
+  "datasheet": "https://www.tracopower.com/sites/default/files/products/datasheets/tmr1_datasheet.pdf",
+  "keywords": "Traco isolated isolation dc-dc converter transformer",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT",
+  "extends": "TMR_1-0511",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TMR_1-1215/",
+  "part_path": "parts/TMR_1-1215",
+  "symbol_file": "parts/TMR_1-1215/TMR_1-1215.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.083Z"
+}

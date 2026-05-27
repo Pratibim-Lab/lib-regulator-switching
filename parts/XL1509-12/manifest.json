@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/XL1509-12:XL1509-12",
+  "name": "XL1509-12",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/XL1509-12.kicad_sym",
+  "description": "Buck DC/DC Converter, 2A, 12V Output Voltage, 15-40V Input Voltage",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/1809050422_XLSEMI-XL1509-5-0E1_C61063.pdf",
+  "keywords": "Buck DC/DC Converter",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "XL1509-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/XL1509-12/",
+  "part_path": "parts/XL1509-12",
+  "symbol_file": "parts/XL1509-12/XL1509-12.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.878Z"
+}

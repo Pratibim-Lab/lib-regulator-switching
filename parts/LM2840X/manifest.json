@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2840X:LM2840X",
+  "name": "LM2840X",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2840X.kicad_sym",
+  "description": "100mA 42V Input Step-Down DC-DC Regulator, Adjustable Output Voltage, 550kHz, TSOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2842-q1.pdf",
+  "keywords": "Miniature Step-Down Buck Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "LM2734Y",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2840X/",
+  "part_path": "parts/LM2840X",
+  "symbol_file": "parts/LM2840X/LM2840X.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.256Z"
+}

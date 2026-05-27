@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/L4962-A:L4962-A",
+  "name": "L4962-A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/L4962-A.kicad_sym",
+  "description": "1.5A Power Switching Regulator, 9..46V input, 5.1..40V output, 150 kHz, DIP-16",
+  "datasheet": "https://www.mouser.com/datasheet/2/389/cd00000076-1795191.pdf",
+  "keywords": "buck step-down dc-dc converter PowerDIP L4962/A Obsolete",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/L4962-A/",
+  "part_path": "parts/L4962-A",
+  "symbol_file": "parts/L4962-A/L4962-A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.662Z"
+}

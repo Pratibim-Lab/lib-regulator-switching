@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/CRE1S0305S3C:CRE1S0305S3C",
+  "name": "CRE1S0305S3C",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/CRE1S0305S3C.kicad_sym",
+  "description": "3.3V to 5V 200mA, Isolated 2W Single-Output DC-DC Converter Modules with 3kV isolation, SIP-4",
+  "datasheet": "https://pim.murata.com/asset/pim4/isolatedDCDCconverter/KDC_CRE1_PDF_ISOLATEDDCDCCONVERTER",
+  "keywords": "Murata isolated isolation dc-dc converter transformer",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_CRE1xxxxxx3C_THT",
+  "extends": "CRE1S0505S3C",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/CRE1S0305S3C/",
+  "part_path": "parts/CRE1S0305S3C",
+  "symbol_file": "parts/CRE1S0305S3C/CRE1S0305S3C.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.493Z"
+}

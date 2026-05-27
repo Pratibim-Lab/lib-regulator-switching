@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY280P:TNY280P",
+  "name": "TNY280P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY280P.kicad_sym",
+  "description": "TinySwitch-III Family, 28.5W Output Power, DIP-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/tny274-280.pdf",
+  "keywords": "Energy-Efficient, Off-Line Switcher With Enhanced Flexibility and Extended Power Range",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8C",
+  "extends": "TNY274P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY280P/",
+  "part_path": "parts/TNY280P",
+  "symbol_file": "parts/TNY280P/TNY280P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.208Z"
+}

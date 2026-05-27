@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/171050601:171050601",
+  "name": "171050601",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/171050601.kicad_sym",
+  "description": "MagI3C Power Module, Variable Step Down Regulator Module, 6 to 36V Input Voltage, 0.8 to 6V, 5A Output, TO-263",
+  "datasheet": "https://www.we-online.com/components/products/datasheet/171050601.pdf",
+  "keywords": "power module regulator",
+  "footprint": "Package_TO_SOT_SMD:TO-263-7_TabPin8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/171050601/",
+  "part_path": "parts/171050601",
+  "symbol_file": "parts/171050601/171050601.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.170Z"
+}

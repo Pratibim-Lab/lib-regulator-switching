@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK456D:LNK456D",
+  "name": "LNK456D",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK456D.kicad_sym",
+  "description": "LinkSwitch-PL Family, 6W Output Power, SO-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf",
+  "keywords": "LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications",
+  "footprint": "Package_SO:PowerIntegrations_SO-8C",
+  "extends": "LNK454D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK456D/",
+  "part_path": "parts/LNK456D",
+  "symbol_file": "parts/LNK456D/LNK456D.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.560Z"
+}

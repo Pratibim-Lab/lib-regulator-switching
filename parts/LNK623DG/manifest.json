@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK623DG:LNK623DG",
+  "name": "LNK623DG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK623DG.kicad_sym",
+  "description": "LinkSwitch-CV Family, 6W Output Power, SO-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkcv_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Off-line Switcher with Accurate Primary-side Constant-Voltage Control",
+  "footprint": "Package_SO:PowerIntegrations_SO-8C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK623DG/",
+  "part_path": "parts/LNK623DG",
+  "symbol_file": "parts/LNK623DG/LNK623DG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.637Z"
+}

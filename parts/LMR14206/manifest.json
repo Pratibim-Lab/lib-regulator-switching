@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR14206:LMR14206",
+  "name": "LMR14206",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR14206.kicad_sym",
+  "description": "Simple Switcher Buck Regulator, Vin=4.5-42V, Iout=600mA, Adjustable output voltage, SOT-23-6 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr14206.pdf",
+  "keywords": "simple-switcher buck step-down voltage-regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "LMR16006YQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR14206/",
+  "part_path": "parts/LMR14206",
+  "symbol_file": "parts/LMR14206/LMR14206.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.360Z"
+}

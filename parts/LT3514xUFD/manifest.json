@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3514xUFD:LT3514xUFD",
+  "name": "LT3514xUFD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3514xUFD.kicad_sym",
+  "description": "Triple Step-Down Switching Regulator with 100% Duty Cycle Operation, QFN-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3514fa.pdf",
+  "keywords": "triple step-down",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3514xUFD/",
+  "part_path": "parts/LT3514xUFD",
+  "symbol_file": "parts/LT3514xUFD/LT3514xUFD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.731Z"
+}

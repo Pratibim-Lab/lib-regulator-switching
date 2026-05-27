@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2576HVS-12:LM2576HVS-12",
+  "name": "LM2576HVS-12",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2576HVS-12.kicad_sym",
+  "description": "12V, 3A SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-263",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2576.pdf",
+  "keywords": "Step-Down Voltage Regulator 12V 3A High Voltage",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2576HVS-12/",
+  "part_path": "parts/LM2576HVS-12",
+  "symbol_file": "parts/LM2576HVS-12/LM2576HVS-12.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.863Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/VIPer26HD:VIPer26HD",
+  "name": "VIPer26HD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/VIPer26HD.kicad_sym",
+  "description": "800V, 10-20W, 115kHz, SMPS Controller, SOIC-16",
+  "datasheet": "https://www.st.com/resource/en/datasheet/viper26.pdf",
+  "keywords": "SMPS Controller with MOSFET",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "VIPer26LD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/VIPer26HD/",
+  "part_path": "parts/VIPer26HD",
+  "symbol_file": "parts/VIPer26HD/VIPer26HD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.869Z"
+}

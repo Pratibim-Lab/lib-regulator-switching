@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5017MR:LM5017MR",
+  "name": "LM5017MR",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5017MR.kicad_sym",
+  "description": "600mA, 100V Step-Down Switching Regulator, PowerSO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5017.pdf",
+  "keywords": "Step-Down Switching Regulator High Voltage",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5017MR/",
+  "part_path": "parts/LM5017MR",
+  "symbol_file": "parts/LM5017MR/LM5017MR.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.298Z"
+}

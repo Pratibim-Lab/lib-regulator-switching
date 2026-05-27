@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5001MA:LM5001MA",
+  "name": "LM5001MA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5001MA.kicad_sym",
+  "description": "1A, High Voltage (75V) Switch-Mode Regulator, Adjustable Output Voltage, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5001.pdf",
+  "keywords": "High-Voltage Switch-mode Regulator Flyback SEPIC Boost",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5001MA/",
+  "part_path": "parts/LM5001MA",
+  "symbol_file": "parts/LM5001MA/LM5001MA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.279Z"
+}

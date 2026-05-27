@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AOZ1282CI:AOZ1282CI",
+  "name": "AOZ1282CI",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AOZ1282CI.kicad_sym",
+  "description": "1.2 A Simple Buck Regulator, 4.5-36V input, 450kHz",
+  "datasheet": "http://aosmd.com/res/data_sheets/AOZ1282CI.pdf",
+  "keywords": "switching buck converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "AOZ1280CI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AOZ1282CI/",
+  "part_path": "parts/AOZ1282CI",
+  "symbol_file": "parts/AOZ1282CI/AOZ1282CI.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.349Z"
+}

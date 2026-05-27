@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ADP2302ARDZ:ADP2302ARDZ",
+  "name": "ADP2302ARDZ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ADP2302ARDZ.kicad_sym",
+  "description": "Nonsynchronous Step-Down Regulator 2 Amp Vout Adjustable SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf",
+  "keywords": "Step-Down Regulator",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ADP2302ARDZ/",
+  "part_path": "parts/ADP2302ARDZ",
+  "symbol_file": "parts/ADP2302ARDZ/ADP2302ARDZ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.302Z"
+}

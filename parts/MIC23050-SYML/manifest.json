@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC23050-SYML:MIC23050-SYML",
+  "name": "MIC23050-SYML",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC23050-SYML.kicad_sym",
+  "description": "4MHz PWM Buck Regulator with HyperLight Load Switching Scheme, 3.3V Fixed Output Voltage",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf",
+  "keywords": "regulator switching",
+  "footprint": "Package_DFN_QFN:Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm_ThermalVias",
+  "extends": "MIC23050-CYML",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC23050-SYML/",
+  "part_path": "parts/MIC23050-SYML",
+  "symbol_file": "parts/MIC23050-SYML/MIC23050-SYML.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.172Z"
+}

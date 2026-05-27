@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT8610AC-1:LT8610AC-1",
+  "name": "LT8610AC-1",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT8610AC-1.kicad_sym",
+  "description": "42V, 3.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, Internal Compensation for Improved Transient, Soft-Start at Dropout and Brownout, MSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/8610acfa.pdf",
+  "keywords": "high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3.5A lower feedback voltage minimum vin internal compensation soft-start",
+  "footprint": "Package_SO:LTC_MSOP-16-1EP_3x4mm_P0.5mm_EP2.15x3.26mm",
+  "extends": "LT8610AC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT8610AC-1/",
+  "part_path": "parts/LT8610AC-1",
+  "symbol_file": "parts/LT8610AC-1/LT8610AC-1.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.759Z"
+}

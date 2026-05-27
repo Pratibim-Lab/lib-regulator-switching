@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP269EG:TOP269EG",
+  "name": "TOP269EG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP269EG.kicad_sym",
+  "description": "TOPSwitch-JX Family, 120W Output Power, eSIP-7C",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf",
+  "keywords": "Integrated Off-Line Switcher with EcoSmart™ Technology",
+  "footprint": "Package_SIP:PowerIntegrations_eSIP-7C",
+  "extends": "TOP264EG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP269EG/",
+  "part_path": "parts/TOP269EG",
+  "symbol_file": "parts/TOP269EG/TOP269EG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.473Z"
+}

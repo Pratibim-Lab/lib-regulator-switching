@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV62084ADSGx:TLV62084ADSGx",
+  "name": "TLV62084ADSGx",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV62084ADSGx.kicad_sym",
+  "description": "High-efficiency Step-down Converter",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv62080.pdf",
+  "keywords": "Synchronous Buck",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "TLV62080DSGx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV62084ADSGx/",
+  "part_path": "parts/TLV62084ADSGx",
+  "symbol_file": "parts/TLV62084ADSGx/TLV62084ADSGx.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.889Z"
+}

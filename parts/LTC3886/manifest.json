@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3886:LTC3886",
+  "name": "LTC3886",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3886.kicad_sym",
+  "description": "60V dual output buck output with digital power system management, UKG52(46)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC3886-3886-1.pdf",
+  "keywords": "step down switch manager I2C telemetry fault current sense",
+  "footprint": "Package_DFN_QFN:Linear_UGK52_QFN-46-52",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3886/",
+  "part_path": "parts/LTC3886",
+  "symbol_file": "parts/LTC3886/LTC3886.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.941Z"
+}

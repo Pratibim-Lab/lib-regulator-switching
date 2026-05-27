@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61201DRC:TPS61201DRC",
+  "name": "TPS61201DRC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61201DRC.kicad_sym",
+  "description": "Low Input Voltage Synchronous Boost Converter With 1.3A Switches, Fixed 5V Output Voltage, 0.3-5.5V Input Voltage, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61200.pdf",
+  "keywords": "boost step-up DC/DC synchronous",
+  "footprint": "Package_SON:Texas_S-PVSON-N10_ThermalVias",
+  "extends": "TPS61200DRC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61201DRC/",
+  "part_path": "parts/TPS61201DRC",
+  "symbol_file": "parts/TPS61201DRC/TPS61201DRC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.645Z"
+}

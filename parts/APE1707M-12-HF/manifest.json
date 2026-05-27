@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/APE1707M-12-HF:APE1707M-12-HF",
+  "name": "APE1707M-12-HF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/APE1707M-12-HF.kicad_sym",
+  "description": "2A, 150KHz PWM Buck DC/DC Converter, fixed 12.0V output voltage, SO-8",
+  "datasheet": "http://files.remont-aud.net/baza/dc_dc/data/APE1707.pdf",
+  "keywords": "12V 2A 150KHz PWM Buck DC/DC",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "APE1707M-33-HF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/APE1707M-12-HF/",
+  "part_path": "parts/APE1707M-12-HF",
+  "symbol_file": "parts/APE1707M-12-HF/APE1707M-12-HF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.447Z"
+}

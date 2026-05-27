@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR64010XMF:LMR64010XMF",
+  "name": "LMR64010XMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR64010XMF.kicad_sym",
+  "description": "1A, 40Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr64010.pdf",
+  "keywords": "Miniature Step-Up Boost Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LMR10510XMF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR64010XMF/",
+  "part_path": "parts/LMR64010XMF",
+  "symbol_file": "parts/LMR64010XMF/LMR64010XMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.423Z"
+}

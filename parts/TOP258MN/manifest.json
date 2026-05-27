@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP258MN:TOP258MN",
+  "name": "TOP258MN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP258MN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 35W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_DIP:PowerIntegrations_SDIP-10C",
+  "extends": "TOP252MN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP258MN/",
+  "part_path": "parts/TOP258MN",
+  "symbol_file": "parts/TOP258MN/TOP258MN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.398Z"
+}

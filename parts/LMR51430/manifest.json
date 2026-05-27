@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR51430:LMR51430",
+  "name": "LMR51430",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR51430.kicad_sym",
+  "description": "4.5-V to 36-V, 3-A synchronous buck converter with 40-µA IQ, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lmr51430.pdf",
+  "keywords": "switching buck converter power-supply voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR51430/",
+  "part_path": "parts/LMR51430",
+  "symbol_file": "parts/LMR51430/LMR51430.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.412Z"
+}

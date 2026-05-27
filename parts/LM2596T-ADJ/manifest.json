@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2596T-ADJ:LM2596T-ADJ",
+  "name": "LM2596T-ADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2596T-ADJ.kicad_sym",
+  "description": "Adjustable 3A 150kHz Step-Down Voltage Regulator, TO-220",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2596.pdf",
+  "keywords": "Step-Down Voltage Regulator Adjustable 3A",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical",
+  "extends": "LM2596T-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2596T-ADJ/",
+  "part_path": "parts/LM2596T-ADJ",
+  "symbol_file": "parts/LM2596T-ADJ/LM2596T-ADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.170Z"
+}

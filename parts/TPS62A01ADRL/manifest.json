@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62A01ADRL:TPS62A01ADRL",
+  "name": "TPS62A01ADRL",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62A01ADRL.kicad_sym",
+  "description": "High Efficiency Synchronous Buck Converter with forced PWM, Adjustable Output 0.6V-5.5V, 1A, Power Good, Enable, SOT-563",
+  "datasheet": "https://www.ti.com/lit/gpn/tps62a01a",
+  "keywords": "Step-Down DC-DC Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "TPS62A01DRL",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62A01ADRL/",
+  "part_path": "parts/TPS62A01ADRL",
+  "symbol_file": "parts/TPS62A01ADRL/TPS62A01ADRL.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.809Z"
+}

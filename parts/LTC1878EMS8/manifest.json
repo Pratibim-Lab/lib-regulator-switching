@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC1878EMS8:LTC1878EMS8",
+  "name": "LTC1878EMS8",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC1878EMS8.kicad_sym",
+  "description": "High Efficiency Monolithic Synchronous Step-Down Regulator, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1878f.pdf",
+  "keywords": "Synchronous Step-Down Regulator",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC1878EMS8/",
+  "part_path": "parts/LTC1878EMS8",
+  "symbol_file": "parts/LTC1878EMS8/LTC1878EMS8.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.780Z"
+}

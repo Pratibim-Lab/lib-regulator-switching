@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62160DGK:TPS62160DGK",
+  "name": "TPS62160DGK",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62160DGK.kicad_sym",
+  "description": "1A Step-Down Converter with DCS-Control, adjustable output, 3-17V input voltage, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62160.pdf",
+  "keywords": "step-down dc-dc buck regulator",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62160DGK/",
+  "part_path": "parts/TPS62160DGK",
+  "symbol_file": "parts/TPS62160DGK/TPS62160DGK.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.731Z"
+}

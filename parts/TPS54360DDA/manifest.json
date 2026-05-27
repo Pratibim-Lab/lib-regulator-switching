@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54360DDA:TPS54360DDA",
+  "name": "TPS54360DDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54360DDA.kicad_sym",
+  "description": "3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps54360.pdf",
+  "keywords": "Step-Down DC-DC Switching Regulator High Voltage High Frequency",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54360DDA/",
+  "part_path": "parts/TPS54360DDA",
+  "symbol_file": "parts/TPS54360DDA/TPS54360DDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.539Z"
+}

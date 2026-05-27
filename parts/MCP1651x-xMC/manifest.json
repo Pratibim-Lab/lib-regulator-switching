@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP1651x-xMC:MCP1651x-xMC",
+  "name": "MCP1651x-xMC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP1651x-xMC.kicad_sym",
+  "description": "750 kHz Boost Controller, 3.3-100V output voltage, 5W, Low Battery Detection, MSOP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/21876B.pdf",
+  "keywords": "boost controller",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP1651x-xMC/",
+  "part_path": "parts/MCP1651x-xMC",
+  "symbol_file": "parts/MCP1651x-xMC/MCP1651x-xMC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.128Z"
+}

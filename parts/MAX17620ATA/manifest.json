@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX17620ATA:MAX17620ATA",
+  "name": "MAX17620ATA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX17620ATA.kicad_sym",
+  "description": "2.7-5.5V, 600mA, Synchronous Step-Down DC-DC Converter with Integrated MOSFETs, DFN-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX17620.pdf",
+  "keywords": "switching-regulator",
+  "footprint": "Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX17620ATA/",
+  "part_path": "parts/MAX17620ATA",
+  "symbol_file": "parts/MAX17620ATA/MAX17620ATA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.997Z"
+}

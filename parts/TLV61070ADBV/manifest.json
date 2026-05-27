@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV61070ADBV:TLV61070ADBV",
+  "name": "TLV61070ADBV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV61070ADBV.kicad_sym",
+  "description": "Boost Converter, 2.5A switch current limit, 2.2-5.5V Output Voltage, 0.5-5.5V Input Voltage, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv61070a.pdf",
+  "keywords": "Boost adjustable converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "MCP1640x-xCHY",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV61070ADBV/",
+  "part_path": "parts/TLV61070ADBV",
+  "symbol_file": "parts/TLV61070ADBV/TLV61070ADBV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.873Z"
+}

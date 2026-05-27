@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/KA5M02659RN:KA5M02659RN",
+  "name": "KA5M02659RN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/KA5M02659RN.kicad_sym",
+  "description": "67kHz SMPS Controller, AC-DC, PDIP-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "KA5H02659RN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/KA5M02659RN/",
+  "part_path": "parts/KA5M02659RN",
+  "symbol_file": "parts/KA5M02659RN/KA5M02659RN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.648Z"
+}

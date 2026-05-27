@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/L5973D:L5973D",
+  "name": "L5973D",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/L5973D.kicad_sym",
+  "description": "2.5A step down switching regulator, HSOP-8",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l5973d.pdf",
+  "keywords": "step down buck regulator",
+  "footprint": "Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/L5973D/",
+  "part_path": "parts/L5973D",
+  "symbol_file": "parts/L5973D/L5973D.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.672Z"
+}

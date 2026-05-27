@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3525L-3:LTC3525L-3",
+  "name": "LTC3525L-3",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3525L-3.kicad_sym",
+  "description": "Fixed 3V, 400mA Micropower Synchronous Step-Up DC/DC Converter with Output Disconnect, SC-70-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3525laf.pdf",
+  "keywords": "fixed boost step-up DC/DC synchronous",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "LTC3525",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3525L-3/",
+  "part_path": "parts/LTC3525L-3",
+  "symbol_file": "parts/LTC3525L-3/LTC3525L-3.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.866Z"
+}

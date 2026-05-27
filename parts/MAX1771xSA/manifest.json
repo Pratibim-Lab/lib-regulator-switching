@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX1771xSA:MAX1771xSA",
+  "name": "MAX1771xSA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX1771xSA.kicad_sym",
+  "description": "12V or Adjustable, High-Efficiency, Low IQ, Step-Up DC-DC Controller, SO-8",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf",
+  "keywords": "Adjustable Step-Up Boost Controller",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX1771xSA/",
+  "part_path": "parts/MAX1771xSA",
+  "symbol_file": "parts/MAX1771xSA/MAX1771xSA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.009Z"
+}

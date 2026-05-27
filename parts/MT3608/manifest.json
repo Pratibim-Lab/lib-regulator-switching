@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MT3608:MT3608",
+  "name": "MT3608",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MT3608.kicad_sym",
+  "description": "High Efficiency 1.2MHz 2A Step Up Converter, 2-24V Vin, 28V Vout, 4A current limit, 1.2MHz, SOT23-6",
+  "datasheet": "https://www.olimex.com/Products/Breadboarding/BB-PWR-3608/resources/MT3608.pdf",
+  "keywords": "Step-Up Boost DC-DC Regulator Adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MT3608/",
+  "part_path": "parts/MT3608",
+  "symbol_file": "parts/MT3608/MT3608.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY264G:TNY264G",
+  "name": "TNY264G",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY264G.kicad_sym",
+  "description": "TinySwitch-II Family, 6W Output Power, SMD-8B",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf",
+  "keywords": "Enhanced, Energy Efficient, Low Power Off-line Switcher",
+  "footprint": "Package_DIP:PowerIntegrations_SMD-8B",
+  "extends": "TNY263G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY264G/",
+  "part_path": "parts/TNY264G",
+  "symbol_file": "parts/TNY264G/TNY264G.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.149Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MPM3550EGLE:MPM3550EGLE",
+  "name": "MPM3550EGLE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MPM3550EGLE.kicad_sym",
+  "description": "Synchronous Step-Down Regulator 5 Amp, 4.5V to 36V input voltage, 1.0V to 12.0V Adjustable Vout LGA-18",
+  "datasheet": "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/",
+  "keywords": "Step-Down Regulator",
+  "footprint": "Package_LGA:MPS_LGA-18-10EP_12x12mm_P3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MPM3550EGLE/",
+  "part_path": "parts/MPM3550EGLE",
+  "symbol_file": "parts/MPM3550EGLE/MPM3550EGLE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.198Z"
+}

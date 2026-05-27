@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC1436A:LTC1436A",
+  "name": "LTC1436A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC1436A.kicad_sym",
+  "description": "High Efficiency Low Noise Synchronous Step-Down Switching Regulators, SSOP-24",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/14367afb.pdf",
+  "keywords": "buck controller 36V",
+  "footprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC1436A/",
+  "part_path": "parts/LTC1436A",
+  "symbol_file": "parts/LTC1436A/LTC1436A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.771Z"
+}

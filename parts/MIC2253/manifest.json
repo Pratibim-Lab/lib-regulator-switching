@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC2253:MIC2253",
+  "name": "MIC2253",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC2253.kicad_sym",
+  "description": "3.5A 1 MHz boost regulator, 2.5V to 10V input, up to 30V output, DFN-12",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/MIC2253-High-Current-1MHz-High-Efficiency-Boost-Regulator-with-OVP-and-Soft-Start-DS20006070A.pdf",
+  "keywords": "switching voltage converter",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC2253/",
+  "part_path": "parts/MIC2253",
+  "symbol_file": "parts/MIC2253/MIC2253.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.156Z"
+}

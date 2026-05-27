@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/EA3058QD:EA3058QD",
+  "name": "EA3058QD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/EA3058QD.kicad_sym",
+  "description": "4-channel power management IC, 2.7..5.5V input, 1.5 MHz switching frequency, VQFN-24",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2006041834_Everanalog-IC-design-EA3058QDR_C575412.pdf",
+  "keywords": "buck-converter SMPS",
+  "footprint": "Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/EA3058QD/",
+  "part_path": "parts/EA3058QD",
+  "symbol_file": "parts/EA3058QD/EA3058QD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.527Z"
+}

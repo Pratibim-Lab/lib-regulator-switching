@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2574N-5:LM2574N-5",
+  "name": "LM2574N-5",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2574N-5.kicad_sym",
+  "description": "5V, 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator, DIP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm2574.pdf",
+  "keywords": "Step-Down Voltage Regulator 5V 500mA",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "LM2574HVN-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2574N-5/",
+  "part_path": "parts/LM2574N-5",
+  "symbol_file": "parts/LM2574N-5/LM2574N-5.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.798Z"
+}

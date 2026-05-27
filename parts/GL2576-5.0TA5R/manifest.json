@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/GL2576-5.0TA5R:GL2576-5.0TA5R",
+  "name": "GL2576-5.0TA5R",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/GL2576-5.0TA5R.kicad_sym",
+  "description": "5V 3A, 52KHz Step Down Converter, TO263-5 (D2-PAK)",
+  "datasheet": "http://www.dianyuan.com/bbs/u/54/437861181916300.pdf",
+  "keywords": "5V 3A 52KHz Buck DC/DC",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "LM2576HVS-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/GL2576-5.0TA5R/",
+  "part_path": "parts/GL2576-5.0TA5R",
+  "symbol_file": "parts/GL2576-5.0TA5R/GL2576-5.0TA5R.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.612Z"
+}

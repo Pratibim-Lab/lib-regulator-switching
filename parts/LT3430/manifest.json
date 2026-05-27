@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3430:LT3430",
+  "name": "LT3430",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3430.kicad_sym",
+  "description": "3A High Voltage 200kHz Step-Down Switching Regulator, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/34301fa.pdf",
+  "keywords": "Step-Down Switching Regulator",
+  "footprint": "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3430/",
+  "part_path": "parts/LT3430",
+  "symbol_file": "parts/LT3430/LT3430.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.719Z"
+}

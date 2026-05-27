@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62821DLC:TPS62821DLC",
+  "name": "TPS62821DLC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62821DLC.kicad_sym",
+  "description": "1A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62823.pdf",
+  "keywords": "step-down dc-dc buck regulator",
+  "footprint": "Package_SON:Texas_VSON-HR-8_1.5x2mm_P0.5mm",
+  "extends": "TPS62823DLC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62821DLC/",
+  "part_path": "parts/TPS62821DLC",
+  "symbol_file": "parts/TPS62821DLC/TPS62821DLC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.773Z"
+}

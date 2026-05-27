@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX779L:MAX779L",
+  "name": "MAX779L",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX779L.kicad_sym",
+  "description": "210mA, Low voltage input, step-up DC-DC converter, adjustable output voltage, DIP-8/SO-8",
+  "datasheet": "https://kanga.gerbilator.org/ICs/MAX777.pdf",
+  "keywords": "switching regulator boost step-up dc-dc",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX779L/",
+  "part_path": "parts/MAX779L",
+  "symbol_file": "parts/MAX779L/MAX779L.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.051Z"
+}

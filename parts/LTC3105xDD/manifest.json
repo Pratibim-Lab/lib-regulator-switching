@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3105xDD:LTC3105xDD",
+  "name": "LTC3105xDD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3105xDD.kicad_sym",
+  "description": "400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf",
+  "keywords": "Solar MPPT Maximum Power Point Control Converter Step-Up",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3105xDD/",
+  "part_path": "parts/LTC3105xDD",
+  "symbol_file": "parts/LTC3105xDD/LTC3105xDD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.783Z"
+}

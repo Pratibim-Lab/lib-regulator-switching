@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AOZ6663DI-01:AOZ6663DI-01",
+  "name": "AOZ6663DI-01",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AOZ6663DI-01.kicad_sym",
+  "description": "3A Buck Regulator, 4.5-18V input, 750kHz,  fixed frequency on light load <= 4V, pulse energy mode on light load > 4V,DFN-8",
+  "datasheet": "http://aosmd.com/res/data_sheets/AOZ6663DI.pdf",
+  "keywords": "switching buck converter",
+  "footprint": "Package_DFN_QFN:AO_AOZ666xDI_DFN-8-1EP_3x3mm_P0.65mm_EP1.25x2.7mm",
+  "extends": "AOZ6663DI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AOZ6663DI-01/",
+  "part_path": "parts/AOZ6663DI-01",
+  "symbol_file": "parts/AOZ6663DI-01/AOZ6663DI-01.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.355Z"
+}

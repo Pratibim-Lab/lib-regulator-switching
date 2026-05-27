@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT1945:LT1945",
+  "name": "LT1945",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT1945.kicad_sym",
+  "description": "Dual Micropower DC/DC Converter with Positive and Negative Outputs, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1945fa.pdf",
+  "keywords": "switched voltage converter regulator inverter double shutdown  positive negative",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT1945/",
+  "part_path": "parts/LT1945",
+  "symbol_file": "parts/LT1945/LT1945.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.714Z"
+}

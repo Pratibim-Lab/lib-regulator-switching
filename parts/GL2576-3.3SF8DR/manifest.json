@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/GL2576-3.3SF8DR:GL2576-3.3SF8DR",
+  "name": "GL2576-3.3SF8DR",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/GL2576-3.3SF8DR.kicad_sym",
+  "description": "3.3V 3A, 52KHz Step Down Converter, SO-8",
+  "datasheet": "http://www.dianyuan.com/bbs/u/54/437861181916300.pdf",
+  "keywords": "3.3V 3A 52KHz Buck DC/DC",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/GL2576-3.3SF8DR/",
+  "part_path": "parts/GL2576-3.3SF8DR",
+  "symbol_file": "parts/GL2576-3.3SF8DR/GL2576-3.3SF8DR.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.604Z"
+}

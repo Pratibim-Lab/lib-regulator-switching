@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MP171GS:MP171GS",
+  "name": "MP171GS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MP171GS.kicad_sym",
+  "description": "60mA Non-Isolated Off-Line Regulator, 700V Input Voltage, Adjustable Output Voltage, SOIC-8",
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf",
+  "keywords": "regulator switching adjustable",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MP171GS/",
+  "part_path": "parts/MP171GS",
+  "symbol_file": "parts/MP171GS/MP171GS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.189Z"
+}

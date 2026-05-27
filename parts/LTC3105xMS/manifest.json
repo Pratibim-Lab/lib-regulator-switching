@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3105xMS:LTC3105xMS",
+  "name": "LTC3105xMS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3105xMS.kicad_sym",
+  "description": "400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up, MSOP-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf",
+  "keywords": "Solar MPPT Maximum Power Point Control Converter Step-Up",
+  "footprint": "Package_SO:MSOP-12_3x4.039mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3105xMS/",
+  "part_path": "parts/LTC3105xMS",
+  "symbol_file": "parts/LTC3105xMS/LTC3105xMS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.786Z"
+}

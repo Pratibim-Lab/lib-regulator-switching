@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK362P:LNK362P",
+  "name": "LNK362P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK362P.kicad_sym",
+  "description": "LinkSwitch-XT Family, 2.6W Output Power, DIP-8B",
+  "datasheet": "https://www.power.com/sites/default/files/documents/linkswitch-xt_family_datasheet.pdf",
+  "keywords": "Energy Effi cient, Low Power Off-Line Switcher IC",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8B",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK362P/",
+  "part_path": "parts/LNK362P",
+  "symbol_file": "parts/LNK362P/LNK362P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.484Z"
+}

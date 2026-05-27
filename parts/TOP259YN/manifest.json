@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP259YN:TOP259YN",
+  "name": "TOP259YN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP259YN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 171W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_TO_SOT_THT:PowerIntegrations_TO-220-7C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP259YN/",
+  "part_path": "parts/TOP259YN",
+  "symbol_file": "parts/TOP259YN/TOP259YN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.410Z"
+}

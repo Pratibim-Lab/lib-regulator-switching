@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3561EDD:LTC3561EDD",
+  "name": "LTC3561EDD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3561EDD.kicad_sym",
+  "description": "1A, 0.8V to 5V out, up to 4MHz Synchronous buck converter with internal switch, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3561f.pdf",
+  "keywords": "buck internal switch dc/dc",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3561EDD/",
+  "part_path": "parts/LTC3561EDD",
+  "symbol_file": "parts/LTC3561EDD/LTC3561EDD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.873Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS563300:TPS563300",
+  "name": "TPS563300",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS563300.kicad_sym",
+  "description": "3.8-28V, 3A Synchronous Buck Converters with pulse frequency modulation (PFM), SOT583-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps563300.pdf",
+  "keywords": "synchronous buck converter pulse frequency modulation",
+  "footprint": "Package_TO_SOT_SMD:SOT-583-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS563300/",
+  "part_path": "parts/TPS563300",
+  "symbol_file": "parts/TPS563300/TPS563300.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.575Z"
+}

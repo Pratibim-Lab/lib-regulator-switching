@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NCP1529A:NCP1529A",
+  "name": "NCP1529A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NCP1529A.kicad_sym",
+  "description": "1.7MHz, 1A, High Efficiency, Low Ripple, Adjustable Output Voltage Step-down Converter, SOT-23-5",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP1529-D.PDF",
+  "keywords": "Step-Down Buck DC-DC Regulator Adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TLV62568DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NCP1529A/",
+  "part_path": "parts/NCP1529A",
+  "symbol_file": "parts/NCP1529A/NCP1529A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.317Z"
+}

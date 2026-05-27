@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MP2303ADP:MP2303ADP",
+  "name": "MP2303ADP",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MP2303ADP.kicad_sym",
+  "description": "Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, DIP-8",
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf",
+  "keywords": "buck converter step down",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MP2303ADP/",
+  "part_path": "parts/MP2303ADP",
+  "symbol_file": "parts/MP2303ADP/MP2303ADP.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.195Z"
+}

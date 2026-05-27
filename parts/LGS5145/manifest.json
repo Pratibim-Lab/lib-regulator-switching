@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LGS5145:LGS5145",
+  "name": "LGS5145",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LGS5145.kicad_sym",
+  "description": "1A, 1.2MHz Buck DC/DC Converter, adjustable output voltage, 4.5..55V input, 0.8..50V output, SOT-23-6",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/2304071600_Legend-Si-LGS5145_C5123971.pdf",
+  "keywords": "Legend step-down",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "LGS5116B",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LGS5145/",
+  "part_path": "parts/LGS5145",
+  "symbol_file": "parts/LGS5145/LGS5145.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.691Z"
+}

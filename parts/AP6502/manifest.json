@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP6502:AP6502",
+  "name": "AP6502",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP6502.kicad_sym",
+  "description": "340kHz 18V 2A Synchronous DC/DC Buck Converter",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP6502.pdf",
+  "keywords": "buck switching converter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP6502/",
+  "part_path": "parts/AP6502",
+  "symbol_file": "parts/AP6502/AP6502.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.426Z"
+}

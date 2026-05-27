@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61220DCK:TPS61220DCK",
+  "name": "TPS61220DCK",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61220DCK.kicad_sym",
+  "description": "400 mA Step-Up Converter, Adjustable Output Voltage, 0.7-5.5V Input Voltage, SC-70",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61220.pdf",
+  "keywords": "Boost adjustable converter",
+  "footprint": "Package_TO_SOT_SMD:Texas_R-PDSO-G6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61220DCK/",
+  "part_path": "parts/TPS61220DCK",
+  "symbol_file": "parts/TPS61220DCK/TPS61220DCK.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.652Z"
+}

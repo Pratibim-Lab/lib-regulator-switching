@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK606GG:LNK606GG",
+  "name": "LNK606GG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK606GG.kicad_sym",
+  "description": "LinkSwitch-II Family, 6.1W Output Power, SMD-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers",
+  "footprint": "Package_DIP:PowerIntegrations_SMD-8C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK606GG/",
+  "part_path": "parts/LNK606GG",
+  "symbol_file": "parts/LNK606GG/LNK606GG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.613Z"
+}

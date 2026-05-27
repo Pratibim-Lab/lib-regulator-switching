@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX5035BUSA:MAX5035BUSA",
+  "name": "MAX5035BUSA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX5035BUSA.kicad_sym",
+  "description": "1A, High-Efficiency Step-Down DC-DC Converter, 5V fixed output voltage, Vin 76V, SO-8",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf",
+  "keywords": "5V 1A Step-Down Converter 76V",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MAX5035AUSA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX5035BUSA/",
+  "part_path": "parts/MAX5035BUSA",
+  "symbol_file": "parts/MAX5035BUSA/MAX5035BUSA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.023Z"
+}

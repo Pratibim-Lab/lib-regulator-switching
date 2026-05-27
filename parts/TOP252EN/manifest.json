@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP252EN:TOP252EN",
+  "name": "TOP252EN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP252EN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 13W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_SIP:PowerIntegrations_eSIP-7C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP252EN/",
+  "part_path": "parts/TOP252EN",
+  "symbol_file": "parts/TOP252EN/TOP252EN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.302Z"
+}

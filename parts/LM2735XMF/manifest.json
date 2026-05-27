@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2735XMF:LM2735XMF",
+  "name": "LM2735XMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2735XMF.kicad_sym",
+  "description": "LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2735.pdf",
+  "keywords": "Miniature Step-Up Boost Flyback SEPIC Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LMR10510XMF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2735XMF/",
+  "part_path": "parts/LM2735XMF",
+  "symbol_file": "parts/LM2735XMF/LM2735XMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.254Z"
+}

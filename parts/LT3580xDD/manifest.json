@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3580xDD:LT3580xDD",
+  "name": "LT3580xDD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3580xDD.kicad_sym",
+  "description": "Boost/Inverting DC/DC Converter with 2A Switch, Soft-Start, and Synchronization, DFN-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf",
+  "keywords": "boost inverting dc-dc",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3580xDD/",
+  "part_path": "parts/LT3580xDD",
+  "symbol_file": "parts/LT3580xDD/LT3580xDD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.733Z"
+}

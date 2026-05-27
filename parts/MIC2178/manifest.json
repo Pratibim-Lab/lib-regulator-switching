@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC2178:MIC2178",
+  "name": "MIC2178",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC2178.kicad_sym",
+  "description": "2.5A Synchronous Buck Regulator, 4.5-16.5V Input Voltage, Adjustable Output Voltage, SO-20W",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic2177.pdf",
+  "keywords": "Synchronous Buck Regulator adjustable",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC2178/",
+  "part_path": "parts/MIC2178",
+  "symbol_file": "parts/MIC2178/MIC2178.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.149Z"
+}

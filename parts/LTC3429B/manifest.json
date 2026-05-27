@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3429B:LTC3429B",
+  "name": "LTC3429B",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3429B.kicad_sym",
+  "description": "600mA, 500kHz Micropower Synchronous Boost Converter with Output Disconnect, Continuous Switching at Light Loads, TSOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3429fa.pdf",
+  "keywords": "boost step-up DC/DC synchronous",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "LTC3429",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3429B/",
+  "part_path": "parts/LTC3429B",
+  "symbol_file": "parts/LTC3429B/LTC3429B.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.815Z"
+}

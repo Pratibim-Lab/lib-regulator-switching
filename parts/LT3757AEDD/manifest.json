@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3757AEDD:LT3757AEDD",
+  "name": "LT3757AEDD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3757AEDD.kicad_sym",
+  "description": "Boost, flyback, SEPIC and inverting regulator, improved load transient performance, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf",
+  "keywords": "Boost flyback SEPIC inverting DC/DC regulator",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+  "extends": "LT3757EDD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3757AEDD/",
+  "part_path": "parts/LT3757AEDD",
+  "symbol_file": "parts/LT3757AEDD/LT3757AEDD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.739Z"
+}

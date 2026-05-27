@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62933P:TPS62933P",
+  "name": "TPS62933P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62933P.kicad_sym",
+  "description": "3.8-30V, 3A Synchronous Buck Converters with pulse frequency modulation (PFM) and power good, SOT583-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps62933.pdf",
+  "keywords": "synchronous buck converter pulse frequency modulation power good",
+  "footprint": "Package_TO_SOT_SMD:SOT-583-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62933P/",
+  "part_path": "parts/TPS62933P",
+  "symbol_file": "parts/TPS62933P/TPS62933P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.807Z"
+}

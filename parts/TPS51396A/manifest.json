@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS51396A:TPS51396A",
+  "name": "TPS51396A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS51396A.kicad_sym",
+  "description": "4.5V to 24V Input, 8A Synchronous Step-Down Voltage Regulator, VQFN-20",
+  "datasheet": "https://www.ti.com/lit/gpn/tps51396a",
+  "keywords": "switching DC-DC-converter",
+  "footprint": "Package_DFN_QFN:Texas_RJE0020A_VQFN-20-1EP_3x3mm_P0.45mm_EP0.675x0.76mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS51396A/",
+  "part_path": "parts/TPS51396A",
+  "symbol_file": "parts/TPS51396A/TPS51396A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.502Z"
+}

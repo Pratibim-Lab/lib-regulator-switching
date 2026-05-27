@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ISL8117FRZ:ISL8117FRZ",
+  "name": "ISL8117FRZ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ISL8117FRZ.kicad_sym",
+  "description": "Synchronous step-down PWM controller, 4.5v to 60v input, 0.6v to 54v Output Voltage, QFN-16",
+  "datasheet": "https://www.renesas.com/en/document/dst/isl8117-datasheet?r=501691",
+  "keywords": "PWM step down buck converter controller synchronous POL",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ISL8117FRZ/",
+  "part_path": "parts/ISL8117FRZ",
+  "symbol_file": "parts/ISL8117FRZ/ISL8117FRZ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.628Z"
+}

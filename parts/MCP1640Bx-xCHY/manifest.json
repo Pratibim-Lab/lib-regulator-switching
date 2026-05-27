@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP1640Bx-xCHY:MCP1640Bx-xCHY",
+  "name": "MCP1640Bx-xCHY",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP1640Bx-xCHY.kicad_sym",
+  "description": "Synchronous Boost Regulator, Adjustable Output 2.0V-5.5V, PWM Only True Disconnect, SOT-23",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002234D.pdf",
+  "keywords": "Step-Up Boost DC-DC Regulator Adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "MCP1640x-xCHY",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP1640Bx-xCHY/",
+  "part_path": "parts/MCP1640Bx-xCHY",
+  "symbol_file": "parts/MCP1640Bx-xCHY/MCP1640Bx-xCHY.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.102Z"
+}

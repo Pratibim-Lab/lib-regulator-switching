@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62125DSG:TPS62125DSG",
+  "name": "TPS62125DSG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62125DSG.kicad_sym",
+  "description": "300mA Step-Down Converter with Enable Threshold and Hysteresis, adjustable output, 3-17V input voltage, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62125.pdf",
+  "keywords": "step-down dc-dc buck regulator",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias",
+  "extends": "TPS62170DSG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62125DSG/",
+  "part_path": "parts/TPS62125DSG",
+  "symbol_file": "parts/TPS62125DSG/TPS62125DSG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.696Z"
+}

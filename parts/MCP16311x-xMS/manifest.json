@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP16311x-xMS:MCP16311x-xMS",
+  "name": "MCP16311x-xMS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP16311x-xMS.kicad_sym",
+  "description": "30V Input, 1A Output Voltage, integrated switch step-down regulator, PFM/PWM modulation, MSOP-8",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP16311-Family-Data-Sheet-DS20005255C.pdf",
+  "keywords": "switching buck converter power-supply voltage regulator",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP16311x-xMS/",
+  "part_path": "parts/MCP16311x-xMS",
+  "symbol_file": "parts/MCP16311x-xMS/MCP16311x-xMS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.085Z"
+}

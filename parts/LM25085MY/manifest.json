@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM25085MY:LM25085MY",
+  "name": "LM25085MY",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM25085MY.kicad_sym",
+  "description": "42V Constant On-Time PFET Buck Switching Controller, MSOP-8-EP",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm25085.pdf",
+  "keywords": "buck switching controller",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM25085MY/",
+  "part_path": "parts/LM25085MY",
+  "symbol_file": "parts/LM25085MY/LM25085MY.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.715Z"
+}

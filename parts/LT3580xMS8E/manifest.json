@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3580xMS8E:LT3580xMS8E",
+  "name": "LT3580xMS8E",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3580xMS8E.kicad_sym",
+  "description": "Boost/Inverting DC/DC Converter with 2A Switch, Soft-Start, and Synchronization, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf",
+  "keywords": "boost inverting dc-dc",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3580xMS8E/",
+  "part_path": "parts/LT3580xMS8E",
+  "symbol_file": "parts/LT3580xMS8E/LT3580xMS8E.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.735Z"
+}

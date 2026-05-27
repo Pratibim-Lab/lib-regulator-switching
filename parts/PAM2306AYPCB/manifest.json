@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/PAM2306AYPCB:PAM2306AYPCB",
+  "name": "PAM2306AYPCB",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/PAM2306AYPCB.kicad_sym",
+  "description": "1A, Dual Step-Down DC/DC-Converter, Out1 1.5V, Out2 1.2V, 1.5MHz, W-DFN3x3",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/PAM2306.pdf",
+  "keywords": "STEP-DOWN Dual channel 1A Out1 1.5V, Out2 1.2V",
+  "footprint": "Package_DFN_QFN:WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm",
+  "extends": "PAM2306AYPAA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/PAM2306AYPCB/",
+  "part_path": "parts/PAM2306AYPCB",
+  "symbol_file": "parts/PAM2306AYPCB/PAM2306AYPCB.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.550Z"
+}

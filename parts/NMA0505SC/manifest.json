@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NMA0505SC:NMA0505SC",
+  "name": "NMA0505SC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NMA0505SC.kicad_sym",
+  "description": "±100mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, ±5V Output Voltage, SIP3",
+  "datasheet": "https://pim.murata.com/asset/pim4/isolatedDCDCconverter/KDC_NMA_PDF_ISOLATEDDCDCCONVERTER",
+  "keywords": "Murata isolated isolation dc-dc converter",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_NMAxxxxSC_THT",
+  "extends": "NMA0512SC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NMA0505SC/",
+  "part_path": "parts/NMA0505SC",
+  "symbol_file": "parts/NMA0505SC/NMA0505SC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.347Z"
+}

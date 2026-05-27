@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TMR_1-2423SM:TMR_1-2423SM",
+  "name": "TMR_1-2423SM",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TMR_1-2423SM.kicad_sym",
+  "description": "±33mA Regulated 1W DC/DC converter with 1.5kV isolation, 18V-36V input, ±15V fixed Output Voltage, SMD",
+  "datasheet": "https://www.tracopower.com/sites/default/files/products/datasheets/tmr1sm_datasheet.pdf",
+  "keywords": "Traco isolated isolation dc-dc converter transformer",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TMR-1SM_SMD",
+  "extends": "TMR_1-0522SM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TMR_1-2423SM/",
+  "part_path": "parts/TMR_1-2423SM",
+  "symbol_file": "parts/TMR_1-2423SM/TMR_1-2423SM.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.119Z"
+}

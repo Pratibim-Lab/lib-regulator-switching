@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3748xMS:LT3748xMS",
+  "name": "LT3748xMS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3748xMS.kicad_sym",
+  "description": "100V Isolated Flyback Controller, MSOP-16(12)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt3748.pdf",
+  "keywords": "isolated flyback controller",
+  "footprint": "Package_SO:Analog_MSOP-12-16_3x4.039mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3748xMS/",
+  "part_path": "parts/LT3748xMS",
+  "symbol_file": "parts/LT3748xMS/LT3748xMS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.737Z"
+}

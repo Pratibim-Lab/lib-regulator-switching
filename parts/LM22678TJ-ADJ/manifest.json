@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM22678TJ-ADJ:LM22678TJ-ADJ",
+  "name": "LM22678TJ-ADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM22678TJ-ADJ.kicad_sym",
+  "description": "5A Step-Down Switching Voltage Regulater, 4.5-42V Input, Adjustable Output, 500kHz Switching Frequency, TO-263",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm22678.pdf",
+  "keywords": "DC/DC Buck Converter 5A",
+  "footprint": "Package_TO_SOT_SMD:TO-263-7_TabPin8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM22678TJ-ADJ/",
+  "part_path": "parts/LM22678TJ-ADJ",
+  "symbol_file": "parts/LM22678TJ-ADJ/LM22678TJ-ADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.708Z"
+}

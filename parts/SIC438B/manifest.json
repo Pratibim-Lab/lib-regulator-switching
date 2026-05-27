@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/SIC438B:SIC438B",
+  "name": "SIC438B",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/SIC438B.kicad_sym",
+  "description": "8A Step-Down DC/DC-Regulator, 300kHz-1MHz, 3..24Vin, 0.6..21.6Vout",
+  "datasheet": "https://www.vishay.com/docs/75921/sic437.pdf",
+  "keywords": "Buck Vishay Siliconix voltage-regulator",
+  "footprint": "Package_DFN_QFN:Vishay_PowerPAK_MLP44-24L_ThermalVias",
+  "extends": "SIC438A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/SIC438B/",
+  "part_path": "parts/SIC438B",
+  "symbol_file": "parts/SIC438B/SIC438B.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.682Z"
+}

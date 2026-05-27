@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/VIPer22AS:VIPer22AS",
+  "name": "VIPer22AS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/VIPer22AS.kicad_sym",
+  "description": "Low power OFF-line SMPS primary switcher",
+  "datasheet": "http://www.st.com/web/en/resource/technical/document/datasheet/CD00087939.pdf",
+  "keywords": "SMPS",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/VIPer22AS/",
+  "part_path": "parts/VIPer22AS",
+  "symbol_file": "parts/VIPer22AS/VIPer22AS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.861Z"
+}

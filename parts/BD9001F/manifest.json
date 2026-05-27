@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/BD9001F:BD9001F",
+  "name": "BD9001F",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/BD9001F.kicad_sym",
+  "description": "48V 2A, Flexible Step-Down Switching Regulator, SO-8",
+  "datasheet": "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9778f-e.pdf",
+  "keywords": "DC-DC Step-Down Switching Regulator",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/BD9001F/",
+  "part_path": "parts/BD9001F",
+  "symbol_file": "parts/BD9001F/BD9001F.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.474Z"
+}

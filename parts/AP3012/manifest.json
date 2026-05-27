@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP3012:AP3012",
+  "name": "AP3012",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP3012.kicad_sym",
+  "description": "500mA, Adjustable Step-Up Voltage Regulator, 1.5MHz Frequency, SOT-23-5",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP3012.pdf",
+  "keywords": "Step-Up Boost Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "SC4503TSK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP3012/",
+  "part_path": "parts/AP3012",
+  "symbol_file": "parts/AP3012/AP3012.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.361Z"
+}

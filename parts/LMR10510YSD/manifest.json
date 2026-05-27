@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR10510YSD:LMR10510YSD",
+  "name": "LMR10510YSD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR10510YSD.kicad_sym",
+  "description": "1A, 5.5V Step-Down Voltage Regulator, 3MHz Frequency, WSON-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr10510.pdf",
+  "keywords": "Miniature Step-Down Buck Voltage Regulator",
+  "footprint": "Package_SON:WSON-6-1EP_3x3mm_P0.95mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR10510YSD/",
+  "part_path": "parts/LMR10510YSD",
+  "symbol_file": "parts/LMR10510YSD/LMR10510YSD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.356Z"
+}

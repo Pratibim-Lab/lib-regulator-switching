@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS568215RNN:TPS568215RNN",
+  "name": "TPS568215RNN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS568215RNN.kicad_sym",
+  "description": "4.5V-17V Input, 8A Synchronous Step-Down SWIFT Converter, Adjustable Output, 400kHz/800kHz/1.2MHz Switching Frequency, Texas VQFN-18",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps568215.pdf",
+  "keywords": "switching buck converter step-down",
+  "footprint": "Package_DFN_QFN:Texas_RNN0018A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS568215RNN/",
+  "part_path": "parts/TPS568215RNN",
+  "symbol_file": "parts/TPS568215RNN/TPS568215RNN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.588Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/VIPer25LN:VIPer25LN",
+  "name": "VIPer25LN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/VIPer25LN.kicad_sym",
+  "description": "12W SMPS Controller, AC-DC, PDIP-7",
+  "datasheet": "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf",
+  "keywords": "SMPS Controller with MOSFET 12W AC-DC",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8B",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/VIPer25LN/",
+  "part_path": "parts/VIPer25LN",
+  "symbol_file": "parts/VIPer25LN/VIPer25LN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.866Z"
+}

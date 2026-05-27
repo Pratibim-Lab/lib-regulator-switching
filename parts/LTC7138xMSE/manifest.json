@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC7138xMSE:LTC7138xMSE",
+  "name": "LTC7138xMSE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC7138xMSE.kicad_sym",
+  "description": "400mA High efficiency 140V step-down converter, MSOP-16(12)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/7138f.pdf",
+  "keywords": "buck dc-dc switcher switching",
+  "footprint": "Package_SO:Analog_MSOP-12-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC7138xMSE/",
+  "part_path": "parts/LTC7138xMSE",
+  "symbol_file": "parts/LTC7138xMSE/LTC7138xMSE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.945Z"
+}

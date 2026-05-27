@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV62569DBV:TLV62569DBV",
+  "name": "TLV62569DBV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV62569DBV.kicad_sym",
+  "description": "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv62569.pdf",
+  "keywords": "Step-Down Buck DC-DC Regulator Adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TLV62568DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV62569DBV/",
+  "part_path": "parts/TLV62569DBV",
+  "symbol_file": "parts/TLV62569DBV/TLV62569DBV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.007Z"
+}

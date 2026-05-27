@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS65130RGE:TPS65130RGE",
+  "name": "TPS65130RGE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS65130RGE.kicad_sym",
+  "description": "Split-Rail Converter with Dual, Positive and Negative Outputs (300mA typ, Switch Current Limit 800mA typ), 2.7-5.5V, VQFN-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps65130.pdf",
+  "keywords": "split-rail switching dual positive negative",
+  "footprint": "Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS65130RGE/",
+  "part_path": "parts/TPS65130RGE",
+  "symbol_file": "parts/TPS65130RGE/TPS65130RGE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.854Z"
+}

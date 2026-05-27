@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TDN_5-2415WISM:TDN_5-2415WISM",
+  "name": "TDN_5-2415WISM",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TDN_5-2415WISM.kicad_sym",
+  "description": "Input 9.0 to 36.0V, Output 24.0V",
+  "datasheet": "https://assets.tracopower.com/20190626081517/TDN5WISM/documents/tdn5wism-datasheet.pdf",
+  "keywords": "dcdc traco 5W",
+  "footprint": "Converter_DCDC:Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD",
+  "extends": "TDN_5-0910WISM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TDN_5-2415WISM/",
+  "part_path": "parts/TDN_5-2415WISM",
+  "symbol_file": "parts/TDN_5-2415WISM/TDN_5-2415WISM.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.809Z"
+}

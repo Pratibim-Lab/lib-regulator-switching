@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NBM5100A:NBM5100A",
+  "name": "NBM5100A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NBM5100A.kicad_sym",
+  "description": "coin cell booster charge pump DHVQFN16 SOT763",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/NBM5100.pdf",
+  "keywords": "charge pump",
+  "footprint": "Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NBM5100A/",
+  "part_path": "parts/NBM5100A",
+  "symbol_file": "parts/NBM5100A/NBM5100A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.206Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ADP5070AREZ:ADP5070AREZ",
+  "name": "ADP5070AREZ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ADP5070AREZ.kicad_sym",
+  "description": "1A/0.6A DC-to-DC Switching Regulator with Independent Positive and Negative Outputs",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5070.pdf",
+  "keywords": "voltage regulator switching inverter double positive negative",
+  "footprint": "Package_SO:ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ADP5070AREZ/",
+  "part_path": "parts/ADP5070AREZ",
+  "symbol_file": "parts/ADP5070AREZ/ADP5070AREZ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.333Z"
+}

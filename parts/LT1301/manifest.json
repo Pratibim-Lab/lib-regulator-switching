@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT1301:LT1301",
+  "name": "LT1301",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT1301.kicad_sym",
+  "description": "Micropower High Efficiency 5V/12V Step-Up DC/DC Converter for Flash Memory, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt1301.pdf",
+  "keywords": "5v 12v dc converter boost",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT1301/",
+  "part_path": "parts/LT1301",
+  "symbol_file": "parts/LT1301/LT1301.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.681Z"
+}

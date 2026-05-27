@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NCV33063AVD:NCV33063AVD",
+  "name": "NCV33063AVD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NCV33063AVD.kicad_sym",
+  "description": "1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF",
+  "keywords": "smps buck boost inverting",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MC33063AD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NCV33063AVD/",
+  "part_path": "parts/NCV33063AVD",
+  "symbol_file": "parts/NCV33063AVD/NCV33063AVD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.320Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3483AxS6:LT3483AxS6",
+  "name": "LT3483AxS6",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3483AxS6.kicad_sym",
+  "description": "Inverting Micropower DC/DC Converter with integrated schottky, 2.5V to 16V input, down to -38V output, 400mA, TSOT-23-6 package",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3483fc.pdf",
+  "keywords": "Inverting Converter Negative",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "LT3483xS6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3483AxS6/",
+  "part_path": "parts/LT3483AxS6",
+  "symbol_file": "parts/LT3483AxS6/LT3483AxS6.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.727Z"
+}

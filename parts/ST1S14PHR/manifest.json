@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ST1S14PHR:ST1S14PHR",
+  "name": "ST1S14PHR",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ST1S14PHR.kicad_sym",
+  "description": "3A step-down switching regulator, Adjustable Output Voltage, 5.5-48V Input Voltage, 850kHz, PowerSO-8",
+  "datasheet": "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00285678.pdf",
+  "keywords": "DC/DC Buck Conwerter 3A",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ST1S14PHR/",
+  "part_path": "parts/ST1S14PHR",
+  "symbol_file": "parts/ST1S14PHR/ST1S14PHR.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.709Z"
+}

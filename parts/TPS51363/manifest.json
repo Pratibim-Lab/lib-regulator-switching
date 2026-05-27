@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS51363:TPS51363",
+  "name": "TPS51363",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS51363.kicad_sym",
+  "description": "High-voltage input, synchronous converter with integrated FET, VQFN-28",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps51363.pdf",
+  "keywords": "Step-down",
+  "footprint": "Package_DFN_QFN:Texas_RVE0028A_VQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS51363/",
+  "part_path": "parts/TPS51363",
+  "symbol_file": "parts/TPS51363/TPS51363.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.500Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR62014XMF:LMR62014XMF",
+  "name": "LMR62014XMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR62014XMF.kicad_sym",
+  "description": "1.4A, 20Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr62014.pdf",
+  "keywords": "Miniature Step-Up Boost Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LMR10510XMF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR62014XMF/",
+  "part_path": "parts/LMR62014XMF",
+  "symbol_file": "parts/LMR62014XMF/LMR62014XMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.414Z"
+}

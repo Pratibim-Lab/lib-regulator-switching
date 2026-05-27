@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS63002:TPS63002",
+  "name": "TPS63002",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS63002.kicad_sym",
+  "description": "Buck-Boost Converter, 1.8-5.5V Input Voltage, 1.7A Switch Current, 5V Output Voltage, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps63000.pdf",
+  "keywords": "Buck-Boost fixed 5V converter",
+  "footprint": "Package_SON:Texas_DRC0010J_ThermalVias",
+  "extends": "TPS63000",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS63002/",
+  "part_path": "parts/TPS63002",
+  "symbol_file": "parts/TPS63002/TPS63002.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.839Z"
+}

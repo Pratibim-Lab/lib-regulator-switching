@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR33630ADDA:LMR33630ADDA",
+  "name": "LMR33630ADDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR33630ADDA.kicad_sym",
+  "description": "Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=3A, F=400kHz, Adjustable output voltage, HSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr33630.pdf",
+  "keywords": "simple-switcher synchronous buck step-down voltage-regulator",
+  "footprint": "Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias",
+  "extends": "LMR33640ADDA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR33630ADDA/",
+  "part_path": "parts/LMR33630ADDA",
+  "symbol_file": "parts/LMR33630ADDA/LMR33630ADDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.393Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MP2303ADN:MP2303ADN",
+  "name": "MP2303ADN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MP2303ADN.kicad_sym",
+  "description": "Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, SOIC-8",
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf",
+  "keywords": "buck converter step down",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MP2303ADN/",
+  "part_path": "parts/MP2303ADN",
+  "symbol_file": "parts/MP2303ADN/MP2303ADN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.192Z"
+}

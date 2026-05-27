@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS613223ADBV:TPS613223ADBV",
+  "name": "TPS613223ADBV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS613223ADBV.kicad_sym",
+  "description": "750mA Step-Up Converter, 2V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61322.pdf",
+  "keywords": "Boost converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS613221ADBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS613223ADBV/",
+  "part_path": "parts/TPS613223ADBV",
+  "symbol_file": "parts/TPS613223ADBV/TPS613223ADBV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.674Z"
+}

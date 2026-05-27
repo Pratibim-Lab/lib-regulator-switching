@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/EA3036CQB:EA3036CQB",
+  "name": "EA3036CQB",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/EA3036CQB.kicad_sym",
+  "description": "3CH power management IC, input range: 2.7V - 5.5V, output range: 0.6V - VIN, 1.5 MHz, WQFN-20",
+  "datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200529/C570857_65255DA4FBC4C795D9FF4AFE8A3669F7.pdf",
+  "keywords": "buck DCDC converter",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/EA3036CQB/",
+  "part_path": "parts/EA3036CQB",
+  "symbol_file": "parts/EA3036CQB/EA3036CQB.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.523Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP3211K:AP3211K",
+  "name": "AP3211K",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP3211K.kicad_sym",
+  "description": "1.5A, Adjustable Step-Down Voltage Regulator, 1.4MHz Frequency, Vin=4.5..18V, Vout=0.81..15V, SOT-23-6",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP3211.pdf",
+  "keywords": "Step-Down PWM buck Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP3211K/",
+  "part_path": "parts/AP3211K",
+  "symbol_file": "parts/AP3211K/AP3211K.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.364Z"
+}

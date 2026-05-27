@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC4690:MIC4690",
+  "name": "MIC4690",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC4690.kicad_sym",
+  "description": "1A, 500kHz SuperSwitcher Buck Regulator, 4-34V Input Voltage, Adjustable Output Voltage, SO-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf",
+  "keywords": "regulator switching adjustable",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC4690/",
+  "part_path": "parts/MIC4690",
+  "symbol_file": "parts/MIC4690/MIC4690.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.178Z"
+}

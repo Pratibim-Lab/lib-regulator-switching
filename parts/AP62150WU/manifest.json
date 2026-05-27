@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP62150WU:AP62150WU",
+  "name": "AP62150WU",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP62150WU.kicad_sym",
+  "description": "1.5A, 1.3MHz Buck DC/DC Converter, 4.2V-18V input voltage, 0.8V-7V adjustable output voltage, TSOT-23-6",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP62150.pdf",
+  "keywords": "1.5A 1.3MHz PWM Buck DC/DC",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP62150WU/",
+  "part_path": "parts/AP62150WU",
+  "symbol_file": "parts/AP62150WU/AP62150WU.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.387Z"
+}

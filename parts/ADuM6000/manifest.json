@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ADuM6000:ADuM6000",
+  "name": "ADuM6000",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ADuM6000.kicad_sym",
+  "description": "Isolated 5 kV DC-to-DC Converter",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM6000.PDF",
+  "keywords": "Isolated DC-to-DC Converter 5kV",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ADuM6000/",
+  "part_path": "parts/ADuM6000",
+  "symbol_file": "parts/ADuM6000/ADuM6000.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.340Z"
+}

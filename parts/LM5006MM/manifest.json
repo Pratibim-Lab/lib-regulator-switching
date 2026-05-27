@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5006MM:LM5006MM",
+  "name": "LM5006MM",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5006MM.kicad_sym",
+  "description": "600mA, 80V Constant On-Time Buck Switching Regulator, MSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5006.pdf",
+  "keywords": "Constant On-Time Buck Switching Regulator",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5006MM/",
+  "part_path": "parts/LM5006MM",
+  "symbol_file": "parts/LM5006MM/LM5006MM.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.282Z"
+}

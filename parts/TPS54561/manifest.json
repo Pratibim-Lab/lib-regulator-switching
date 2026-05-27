@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54561:TPS54561",
+  "name": "TPS54561",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54561.kicad_sym",
+  "description": "5A non-synchronous Buck Converter, 4.5..60Vin, 0.8..58.8Vout, 100kHz..2.5MHz switching frequency, WSON-10",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps54561.pdf",
+  "keywords": "step-down adjustable texas",
+  "footprint": "Package_SON:WSON-10-1EP_4x4mm_P0.8mm_EP2.6x3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54561/",
+  "part_path": "parts/TPS54561",
+  "symbol_file": "parts/TPS54561/TPS54561.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.544Z"
+}

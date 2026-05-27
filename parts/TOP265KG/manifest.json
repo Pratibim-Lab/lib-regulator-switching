@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP265KG:TOP265KG",
+  "name": "TOP265KG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP265KG.kicad_sym",
+  "description": "TOPSwitch-JX Family, 34W Output Power, eSOP-12B",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf",
+  "keywords": "Integrated Off-Line Switcher with EcoSmart™ Technology",
+  "footprint": "Package_SO:PowerIntegrations_eSOP-12B",
+  "extends": "TOP264KG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP265KG/",
+  "part_path": "parts/TOP265KG",
+  "symbol_file": "parts/TOP265KG/TOP265KG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.449Z"
+}

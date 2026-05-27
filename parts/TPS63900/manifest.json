@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS63900:TPS63900",
+  "name": "TPS63900",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS63900.kicad_sym",
+  "description": "Buck-Boost Converter, 1.8-5.5V Input Voltage, 0.4A Switch Current, Adjustable 1.8-5V Output Voltage, WSON-10",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps63900.pdf",
+  "keywords": "Buck-Boost adjustable converter",
+  "footprint": "Package_SON:WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS63900/",
+  "part_path": "parts/TPS63900",
+  "symbol_file": "parts/TPS63900/TPS63900.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.852Z"
+}

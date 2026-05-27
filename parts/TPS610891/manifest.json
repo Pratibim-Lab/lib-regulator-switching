@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS610891:TPS610891",
+  "name": "TPS610891",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS610891.kicad_sym",
+  "description": "7A Boost Converters, Adjustable output voltage (ForcedPWM), input 2.7 to 12V , output 4.5 to 12.6V, VQFN-11",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61089.pdf",
+  "keywords": "Adjustable 7A boost converter",
+  "footprint": "Package_DFN_QFN:Texas_VQFN-RNR0011A-11",
+  "extends": "TPS61089",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS610891/",
+  "part_path": "parts/TPS610891",
+  "symbol_file": "parts/TPS610891/TPS610891.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.614Z"
+}

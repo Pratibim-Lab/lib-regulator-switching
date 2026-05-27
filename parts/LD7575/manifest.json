@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LD7575:LD7575",
+  "name": "LD7575",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LD7575.kicad_sym",
+  "description": "Green-Mode PWM Controller with High-Voltage Start-Up Circuit, DIP-8/SOIC-8",
+  "datasheet": "http://www.leadtrend.com.tw/archive/doc/product/sheets/LD7575-DS-04b.pdf",
+  "keywords": "smps controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LD7575/",
+  "part_path": "parts/LD7575",
+  "symbol_file": "parts/LD7575/LD7575.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.684Z"
+}

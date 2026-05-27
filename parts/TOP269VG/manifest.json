@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP269VG:TOP269VG",
+  "name": "TOP269VG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP269VG.kicad_sym",
+  "description": "TOPSwitch-JX Family, 120W Output Power, eDIP-12B",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf",
+  "keywords": "Integrated Off-Line Switcher with EcoSmart™ Technology",
+  "footprint": "Package_DIP:PowerIntegrations_eDIP-12B",
+  "extends": "TOP264VG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP269VG/",
+  "part_path": "parts/TOP269VG",
+  "symbol_file": "parts/TOP269VG/TOP269VG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.477Z"
+}

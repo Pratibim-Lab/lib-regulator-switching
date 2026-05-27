@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY290K:TNY290K",
+  "name": "TNY290K",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY290K.kicad_sym",
+  "description": "TinySwitch-4 Family, 28.5W Output Power, eSOP-12B",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power",
+  "footprint": "Package_SO:PowerIntegrations_eSOP-12B",
+  "extends": "TNY284K",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY290K/",
+  "part_path": "parts/TNY290K",
+  "symbol_file": "parts/TNY290K/TNY290K.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.255Z"
+}

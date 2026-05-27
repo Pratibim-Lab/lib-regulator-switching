@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV61046ADB:TLV61046ADB",
+  "name": "TLV61046ADB",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV61046ADB.kicad_sym",
+  "description": "28-V Output Voltage Boost Converter with Power Diode and Isolation Switch, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv61046a.pdf",
+  "keywords": "Step-Up DC-DC Converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV61046ADB/",
+  "part_path": "parts/TLV61046ADB",
+  "symbol_file": "parts/TLV61046ADB/TLV61046ADB.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.864Z"
+}

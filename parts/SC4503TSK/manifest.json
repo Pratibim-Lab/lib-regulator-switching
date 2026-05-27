@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/SC4503TSK:SC4503TSK",
+  "name": "SC4503TSK",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/SC4503TSK.kicad_sym",
+  "description": "1.9A, 1.3MHz Step-Up DC/DC Converter, 2.5V-20V output voltage, TSOT23",
+  "datasheet": "https://www.semtech.com/uploads/documents/sc4503.pdf",
+  "keywords": "1.9A 1.3MHz Step-Up DC/DC",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/SC4503TSK/",
+  "part_path": "parts/SC4503TSK",
+  "symbol_file": "parts/SC4503TSK/SC4503TSK.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.591Z"
+}

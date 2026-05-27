@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS5430DDA:TPS5430DDA",
+  "name": "TPS5430DDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS5430DDA.kicad_sym",
+  "description": "3A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-36V Input Voltage, PowerSO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps5430.pdf",
+  "keywords": "Step-Down DC-DC Switching Regulator",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS5430DDA/",
+  "part_path": "parts/TPS5430DDA",
+  "symbol_file": "parts/TPS5430DDA/TPS5430DDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.529Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TL497A:TL497A",
+  "name": "TL497A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TL497A.kicad_sym",
+  "description": "500mA step up/step down switching regulator",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl497a.pdf",
+  "keywords": "buck regulator",
+  "footprint": "",
+  "extends": "TL497",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TL497A/",
+  "part_path": "parts/TL497A",
+  "symbol_file": "parts/TL497A/TL497A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.852Z"
+}

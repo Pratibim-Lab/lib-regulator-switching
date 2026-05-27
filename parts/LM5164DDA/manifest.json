@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5164DDA:LM5164DDA",
+  "name": "LM5164DDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5164DDA.kicad_sym",
+  "description": "1A synchronous buck converter with ultra-low IQ, 6V - 100V input, adjustable output voltage, HSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm5164.pdf?ts=1598311864250&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM5164%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe",
+  "keywords": "step-down dc-dc buck regulator adjustable",
+  "footprint": "Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5164DDA/",
+  "part_path": "parts/LM5164DDA",
+  "symbol_file": "parts/LM5164DDA/LM5164DDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.321Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62201DBV:TPS62201DBV",
+  "name": "TPS62201DBV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62201DBV.kicad_sym",
+  "description": "300mA High-Efficiency Step-Down DC-DC Converter, fixed 1.5V output voltage, 2.5-6V input voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62201.pdf",
+  "keywords": "Step-Down DC-DC Converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS62200DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62201DBV/",
+  "part_path": "parts/TPS62201DBV",
+  "symbol_file": "parts/TPS62201DBV/TPS62201DBV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.758Z"
+}

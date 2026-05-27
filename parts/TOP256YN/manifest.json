@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP256YN:TOP256YN",
+  "name": "TOP256YN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP256YN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 86W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_TO_SOT_THT:PowerIntegrations_TO-220-7C",
+  "extends": "TOP254YN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP256YN/",
+  "part_path": "parts/TOP256YN",
+  "symbol_file": "parts/TOP256YN/TOP256YN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.370Z"
+}

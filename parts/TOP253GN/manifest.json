@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP253GN:TOP253GN",
+  "name": "TOP253GN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP253GN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 15W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_DIP:PowerIntegrations_SMD-8C",
+  "extends": "TOP252GN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP253GN/",
+  "part_path": "parts/TOP253GN",
+  "symbol_file": "parts/TOP253GN/TOP253GN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.324Z"
+}

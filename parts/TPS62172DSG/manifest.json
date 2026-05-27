@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62172DSG:TPS62172DSG",
+  "name": "TPS62172DSG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62172DSG.kicad_sym",
+  "description": "500mA Step-Down Converter with DCS-Control, fixed 3.3V output, 3-17V input voltage, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62170.pdf",
+  "keywords": "step-down dc-dc buck regulator",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias",
+  "extends": "TPS62170DSG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62172DSG/",
+  "part_path": "parts/TPS62172DSG",
+  "symbol_file": "parts/TPS62172DSG/TPS62172DSG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.747Z"
+}

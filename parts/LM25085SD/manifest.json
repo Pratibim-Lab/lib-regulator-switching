@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM25085SD:LM25085SD",
+  "name": "LM25085SD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM25085SD.kicad_sym",
+  "description": "42V Constant On-Time PFET Buck Switching Controller, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm25085.pdf",
+  "keywords": "buck switching controller",
+  "footprint": "Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM25085SD/",
+  "part_path": "parts/LM25085SD",
+  "symbol_file": "parts/LM25085SD/LM25085SD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.719Z"
+}

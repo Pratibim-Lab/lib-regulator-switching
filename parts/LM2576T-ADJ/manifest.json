@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2576T-ADJ:LM2576T-ADJ",
+  "name": "LM2576T-ADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2576T-ADJ.kicad_sym",
+  "description": "Adjustable Output Voltage, 3A SIMPLE SWITCHER® Step-Down Voltage Regulator, TO-220-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2576.pdf",
+  "keywords": "Step-Down Voltage Regulator 3A Adjustable",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_Vertical",
+  "extends": "LM2576HVT-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2576T-ADJ/",
+  "part_path": "parts/LM2576T-ADJ",
+  "symbol_file": "parts/LM2576T-ADJ/LM2576T-ADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.904Z"
+}

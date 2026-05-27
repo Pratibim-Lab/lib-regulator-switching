@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP209P:TOP209P",
+  "name": "TOP209P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP209P.kicad_sym",
+  "description": "TOPSwitch Family, 2W Max Output Power, DIP-8",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/top209210.pdf",
+  "keywords": "Three-terminal Off-line PWM Switch",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP209P/",
+  "part_path": "parts/TOP209P",
+  "symbol_file": "parts/TOP209P/TOP209P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.288Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61099DRV:TPS61099DRV",
+  "name": "TPS61099DRV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61099DRV.kicad_sym",
+  "description": "Boost Converter, 0.7-5.5V Input Voltage, 1A Switch Current, Adjustable 1.8-5.5V Output Voltage, WSON-6",
+  "datasheet": "https://www.ti.com/lit/gpn/TPS61099",
+  "keywords": "Step-Up DC-DC Converter",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61099DRV/",
+  "part_path": "parts/TPS61099DRV",
+  "symbol_file": "parts/TPS61099DRV/TPS61099DRV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.640Z"
+}

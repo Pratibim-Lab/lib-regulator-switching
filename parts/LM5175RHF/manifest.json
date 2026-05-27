@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5175RHF:LM5175RHF",
+  "name": "LM5175RHF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5175RHF.kicad_sym",
+  "description": "42-V wide Vin synchronous 4-switch Buck-Boost controller, QFN-28 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5175.pdf",
+  "keywords": "Buck Boost step-up step-down",
+  "footprint": "Package_DFN_QFN:VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5175RHF/",
+  "part_path": "parts/LM5175RHF",
+  "symbol_file": "parts/LM5175RHF/LM5175RHF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.338Z"
+}

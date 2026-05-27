@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54560BDDA:TPS54560BDDA",
+  "name": "TPS54560BDDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54560BDDA.kicad_sym",
+  "description": "5A, Step Down DC-DC Converter, 4.5-60V Input Voltage, Texas R-PDSO-G8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps54560b.pdf",
+  "keywords": "buck controller",
+  "footprint": "Package_SO:Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54560BDDA/",
+  "part_path": "parts/TPS54560BDDA",
+  "symbol_file": "parts/TPS54560BDDA/TPS54560BDDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.541Z"
+}

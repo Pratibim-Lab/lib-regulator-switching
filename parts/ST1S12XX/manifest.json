@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ST1S12XX:ST1S12XX",
+  "name": "ST1S12XX",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ST1S12XX.kicad_sym",
+  "description": "0.7A synchronous step-down regulator, Adjustable Output Voltage, 2.5-5.5V Input Voltage, 1.7MHz, TSOT-23-5",
+  "datasheet": "https://www.st.com/resource/en/datasheet/st1s12xx.pdf",
+  "keywords": "DC/DC Buck Converter 0.7A",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ST1S12XX/",
+  "part_path": "parts/ST1S12XX",
+  "symbol_file": "parts/ST1S12XX/ST1S12XX.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.703Z"
+}

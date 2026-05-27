@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MP1470:MP1470",
+  "name": "MP1470",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MP1470.kicad_sym",
+  "description": "High-Efficiency, 2A, 16V, 500kHz Synchronous, Step-Down Converter, TSOT-23-6",
+  "datasheet": "https://www.monolithicpower.com/pub/media/document/MP1470_r1.02.pdf",
+  "keywords": "buck converter",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MP1470/",
+  "part_path": "parts/MP1470",
+  "symbol_file": "parts/MP1470/MP1470.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.184Z"
+}

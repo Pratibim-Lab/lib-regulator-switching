@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61085DGK:TPS61085DGK",
+  "name": "TPS61085DGK",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61085DGK.kicad_sym",
+  "description": "Step-Up DC-DC Converter, input 2.3V to 6V , output 2.8V to 18.5, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps61085.pdf",
+  "keywords": "boost converter switching VSSOP-8",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61085DGK/",
+  "part_path": "parts/TPS61085DGK",
+  "symbol_file": "parts/TPS61085DGK/TPS61085DGK.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.606Z"
+}

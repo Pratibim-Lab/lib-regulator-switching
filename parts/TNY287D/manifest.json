@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY287D:TNY287D",
+  "name": "TNY287D",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY287D.kicad_sym",
+  "description": "TinySwitch-4 Family, 18W Output Power, SO-8C",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power",
+  "footprint": "Package_SO:PowerIntegrations_SO-8C",
+  "extends": "TNY284D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY287D/",
+  "part_path": "parts/TNY287D",
+  "symbol_file": "parts/TNY287D/TNY287D.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.236Z"
+}

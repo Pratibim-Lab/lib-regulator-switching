@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM26480SQ:LM26480SQ",
+  "name": "LM26480SQ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM26480SQ.kicad_sym",
+  "description": "Dual 1.5A 2MHz Buck Regulators and Dual 300mA LDOs, WQFN-24",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm26480.pdf",
+  "keywords": "Dual Buck Regulator LDO 2MHz 1.5A 300mA",
+  "footprint": "Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM26480SQ/",
+  "part_path": "parts/LM26480SQ",
+  "symbol_file": "parts/LM26480SQ/LM26480SQ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.176Z"
+}

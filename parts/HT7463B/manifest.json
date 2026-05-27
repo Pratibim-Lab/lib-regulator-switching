@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/HT7463B:HT7463B",
+  "name": "HT7463B",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/HT7463B.kicad_sym",
+  "description": "52V/600mA, 550kHz Asynchronous Step Down Converter",
+  "datasheet": "https://www.holtek.com/documents/10179/116711/HT7463A_Bv160.pdf",
+  "keywords": "600mA Buck DC/DC 52V 550kHz",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "HT7463A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/HT7463B/",
+  "part_path": "parts/HT7463B",
+  "symbol_file": "parts/HT7463B/HT7463B.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.626Z"
+}

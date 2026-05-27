@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR62421XMF:LMR62421XMF",
+  "name": "LMR62421XMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR62421XMF.kicad_sym",
+  "description": "2.1A, 24Vout Boost/SEPIC Voltage Regulator, 1.6MHz Frequency, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr62421.pdf",
+  "keywords": "Miniature Step-Up Boost SEPIC Voltage Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "LMR10510XMF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR62421XMF/",
+  "part_path": "parts/LMR62421XMF",
+  "symbol_file": "parts/LMR62421XMF/LMR62421XMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.416Z"
+}

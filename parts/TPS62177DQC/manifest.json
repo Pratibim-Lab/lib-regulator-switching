@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62177DQC:TPS62177DQC",
+  "name": "TPS62177DQC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62177DQC.kicad_sym",
+  "description": "500mA Step-Down Converter with Sleep Mode, fixed 3.3V Output Voltage, 4.75-28V input voltage, WSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62177.pdf",
+  "keywords": "step-down dc-dc buck regulator",
+  "footprint": "Package_SON:WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62177DQC/",
+  "part_path": "parts/TPS62177DQC",
+  "symbol_file": "parts/TPS62177DQC/TPS62177DQC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.754Z"
+}

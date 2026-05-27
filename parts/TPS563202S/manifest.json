@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS563202S:TPS563202S",
+  "name": "TPS563202S",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS563202S.kicad_sym",
+  "description": "3A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.3-17V Input Voltage, 0.806-7V Output Voltage, SOT-563",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps563202s.pdf",
+  "keywords": "step-down dcdc voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS563202S/",
+  "part_path": "parts/TPS563202S",
+  "symbol_file": "parts/TPS563202S/TPS563202S.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.564Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5022MM:LM5022MM",
+  "name": "LM5022MM",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5022MM.kicad_sym",
+  "description": "60-V Low-Side Controller for Boost and SEPIC, MSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5022.pdf",
+  "keywords": "boost switching controller",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5022MM/",
+  "part_path": "parts/LM5022MM",
+  "symbol_file": "parts/LM5022MM/LM5022MM.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.303Z"
+}

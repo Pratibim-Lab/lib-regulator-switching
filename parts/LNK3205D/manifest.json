@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK3205D:LNK3205D",
+  "name": "LNK3205D",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK3205D.kicad_sym",
+  "description": "LinkSwitch-TN Family, 270mA Output Current, SO-8C",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf",
+  "keywords": "Lowest Component Count, Energy-Efficient Off-Line Switcher IC",
+  "footprint": "Package_SO:PowerIntegrations_SO-8C",
+  "extends": "LNK3202D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK3205D/",
+  "part_path": "parts/LNK3205D",
+  "symbol_file": "parts/LNK3205D/LNK3205D.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.468Z"
+}

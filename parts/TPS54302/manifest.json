@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54302:TPS54302",
+  "name": "TPS54302",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54302.kicad_sym",
+  "description": "3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps54302.pdf",
+  "keywords": "switching buck converter power-supply voltage regulator emi spread spectrum",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54302/",
+  "part_path": "parts/TPS54302",
+  "symbol_file": "parts/TPS54302/TPS54302.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.524Z"
+}

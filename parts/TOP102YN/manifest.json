@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP102YN:TOP102YN",
+  "name": "TOP102YN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP102YN.kicad_sym",
+  "description": "TOPSwitch Family, 45W Max Output Power, TO-220",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/top100.pdf",
+  "keywords": "Three-terminal Off-line PWM Switch",
+  "footprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+  "extends": "TOP100YN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP102YN/",
+  "part_path": "parts/TOP102YN",
+  "symbol_file": "parts/TOP102YN/TOP102YN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.264Z"
+}

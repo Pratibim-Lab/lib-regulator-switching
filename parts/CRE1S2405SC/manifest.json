@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/CRE1S2405SC:CRE1S2405SC",
+  "name": "CRE1S2405SC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/CRE1S2405SC.kicad_sym",
+  "description": "24V to 5V 200mA DC-DC Converter with 1kV isolation, SIP-4",
+  "datasheet": "https://pim.murata.com/asset/pim4/isolatedDCDCconverter/KDC_CRE1_PDF_ISOLATEDDCDCCONVERTER",
+  "keywords": "Murata isolated isolation dc-dc converter transformer",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_CRE1xxxxxxSC_THT",
+  "extends": "CRE1S0505SC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/CRE1S2405SC/",
+  "part_path": "parts/CRE1S2405SC",
+  "symbol_file": "parts/CRE1S2405SC/CRE1S2405SC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.515Z"
+}

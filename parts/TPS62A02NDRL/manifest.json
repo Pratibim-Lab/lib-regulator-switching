@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62A02NDRL:TPS62A02NDRL",
+  "name": "TPS62A02NDRL",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62A02NDRL.kicad_sym",
+  "description": "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, Enable, SOT-563",
+  "datasheet": "https://www.ti.com/lit/gpn/tps62a02",
+  "keywords": "Step-Down DC-DC Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62A02NDRL/",
+  "part_path": "parts/TPS62A02NDRL",
+  "symbol_file": "parts/TPS62A02NDRL/TPS62A02NDRL.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.827Z"
+}

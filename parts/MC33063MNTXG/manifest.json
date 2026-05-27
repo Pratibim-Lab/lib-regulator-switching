@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MC33063MNTXG:MC33063MNTXG",
+  "name": "MC33063MNTXG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MC33063MNTXG.kicad_sym",
+  "description": "1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DFN-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF",
+  "keywords": "smps buck boost inverting",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MC33063MNTXG/",
+  "part_path": "parts/MC33063MNTXG",
+  "symbol_file": "parts/MC33063MNTXG/MC33063MNTXG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.060Z"
+}

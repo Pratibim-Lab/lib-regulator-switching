@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT1073CS-5:LT1073CS-5",
+  "name": "LT1073CS-5",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT1073CS-5.kicad_sym",
+  "description": "Micropower DC/DC Converter, Fixed 5V Output Voltage, SO-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1073fa.pdf",
+  "keywords": "Micropower DC/DC Converter",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT1073CS-5/",
+  "part_path": "parts/LT1073CS-5",
+  "symbol_file": "parts/LT1073CS-5/LT1073CS-5.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.663Z"
+}

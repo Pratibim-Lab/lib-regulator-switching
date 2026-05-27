@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS61092:TPS61092",
+  "name": "TPS61092",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS61092.kicad_sym",
+  "description": "2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, 5V Output Voltage, QFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61090.pdf",
+  "keywords": "Fixed 5V 2A battery boost converter",
+  "footprint": "Package_DFN_QFN:Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_ThermalVias",
+  "extends": "TPS61090",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS61092/",
+  "part_path": "parts/TPS61092",
+  "symbol_file": "parts/TPS61092/TPS61092.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.621Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/A4403GEU:A4403GEU",
+  "name": "A4403GEU",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/A4403GEU.kicad_sym",
+  "description": "Valley current mode buck converter, 46V, 3A, up to 2MHz, QFN-16",
+  "datasheet": "https://www.allegromicro.com/~/media/Files/Datasheets/A4403-Datasheet.ashx",
+  "keywords": "buck regulator adjustable",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/A4403GEU/",
+  "part_path": "parts/A4403GEU",
+  "symbol_file": "parts/A4403GEU/A4403GEU.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.182Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NID30S24-12:NID30S24-12",
+  "name": "NID30S24-12",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NID30S24-12.kicad_sym",
+  "description": "2.5A/30W Step Down Converter Module, fixed 12V Output Voltage, 250kHz, 20-53V Input Voltage",
+  "datasheet": "https://www.meanwellusa.com/upload/pdf/NID30/NID30-spec.pdf",
+  "keywords": "Step-Down Converter Module DC/DC",
+  "footprint": "Converter_DCDC:Converter_DCDC_MeanWell_NID30_THT",
+  "extends": "NID30S24-05",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NID30S24-12/",
+  "part_path": "parts/NID30S24-12",
+  "symbol_file": "parts/NID30S24-12/NID30S24-12.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.327Z"
+}

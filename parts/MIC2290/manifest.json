@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC2290:MIC2290",
+  "name": "MIC2290",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC2290.kicad_sym",
+  "description": "1.2 Mhz PWM Boost Regulator with Internal Schotty Diode, MLF-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic2290.pdf",
+  "keywords": "boost switching voltage converter regulator",
+  "footprint": "Package_DFN_QFN:Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC2290/",
+  "part_path": "parts/MIC2290",
+  "symbol_file": "parts/MIC2290/MIC2290.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.159Z"
+}

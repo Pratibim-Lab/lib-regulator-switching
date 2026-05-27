@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP3402:AP3402",
+  "name": "AP3402",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP3402.kicad_sym",
+  "description": "1.0MHz 2A Step-Down DC-DC Buck Converter, TSOT-23-6",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/AP3402.pdf",
+  "keywords": "buck switching converter",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP3402/",
+  "part_path": "parts/AP3402",
+  "symbol_file": "parts/AP3402/AP3402.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.366Z"
+}

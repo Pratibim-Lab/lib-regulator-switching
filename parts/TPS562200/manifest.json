@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS562200:TPS562200",
+  "name": "TPS562200",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS562200.kicad_sym",
+  "description": "2A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps563200.pdf",
+  "keywords": "step-down dcdc voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS562200/",
+  "part_path": "parts/TPS562200",
+  "symbol_file": "parts/TPS562200/TPS562200.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.548Z"
+}

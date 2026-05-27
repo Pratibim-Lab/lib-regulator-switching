@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5088-2:LM5088-2",
+  "name": "LM5088-2",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5088-2.kicad_sym",
+  "description": "Wide Input Range Non-Synchronous Buck Controller, Hiccup Mode Restart, 75V, HTSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5088.pdf",
+  "keywords": "step down buck high voltage",
+  "footprint": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5088-2/",
+  "part_path": "parts/LM5088-2",
+  "symbol_file": "parts/LM5088-2/LM5088-2.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.312Z"
+}

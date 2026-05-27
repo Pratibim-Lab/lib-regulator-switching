@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5161PWP:LM5161PWP",
+  "name": "LM5161PWP",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5161PWP.kicad_sym",
+  "description": "1A Synchronous Buck/Fly-buck Converter, 4.5V-100V input, adjustable output voltage, HTSSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5161.pdf",
+  "keywords": "step-down dc-dc buck regulator adjustable",
+  "footprint": "Package_SO:Texas_HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3.155x3.255mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5161PWP/",
+  "part_path": "parts/LM5161PWP",
+  "symbol_file": "parts/LM5161PWP/LM5161PWP.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.319Z"
+}

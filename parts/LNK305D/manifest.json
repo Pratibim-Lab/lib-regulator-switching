@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK305D:LNK305D",
+  "name": "LNK305D",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK305D.kicad_sym",
+  "description": "LinkSwitch-TN Family, 280mA Output Current, SO-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf",
+  "keywords": "Lowest Component Count, Energy-Efficient Off-Line Switcher IC",
+  "footprint": "Package_SO:PowerIntegrations_SO-8B",
+  "extends": "LNK302D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK305D/",
+  "part_path": "parts/LNK305D",
+  "symbol_file": "parts/LNK305D/LNK305D.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.439Z"
+}

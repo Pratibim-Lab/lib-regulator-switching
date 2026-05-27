@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS560200:TPS560200",
+  "name": "TPS560200",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS560200.kicad_sym",
+  "description": "500mA, Synchronous Step-Down Converter With, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps560200.pdf",
+  "keywords": "Voltage regulator switching buck fixed output analog",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS560200/",
+  "part_path": "parts/TPS560200",
+  "symbol_file": "parts/TPS560200/TPS560200.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.546Z"
+}

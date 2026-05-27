@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2575BT-ADJ:LM2575BT-ADJ",
+  "name": "LM2575BT-ADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2575BT-ADJ.kicad_sym",
+  "description": "Adjustable 52kHz Simple 1A Buck Regulator, TO-220-5",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/lm2575.pdf",
+  "keywords": "Buck regulator Switcher",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_Vertical",
+  "extends": "LM2576HVT-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2575BT-ADJ/",
+  "part_path": "parts/LM2575BT-ADJ",
+  "symbol_file": "parts/LM2575BT-ADJ/LM2575BT-ADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.860Z"
+}

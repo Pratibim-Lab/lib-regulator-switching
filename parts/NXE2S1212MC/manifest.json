@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NXE2S1212MC:NXE2S1212MC",
+  "name": "NXE2S1212MC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NXE2S1212MC.kicad_sym",
+  "description": "2W 12V to 12V 400mA DC-DC Converter with 3kV isolation",
+  "datasheet": "https://pim.murata.com/asset/pim4/isolatedDCDCconverter/KDC_NXE2_PDF_ISOLATEDDCDCCONVERTER",
+  "keywords": "isolated isolation dc-dc converter transformer",
+  "footprint": "Converter_DCDC:Converter_DCDC_Murata_NXExSxxxxMC_SMD",
+  "extends": "NXE2S0505MC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NXE2S1212MC/",
+  "part_path": "parts/NXE2S1212MC",
+  "symbol_file": "parts/NXE2S1212MC/NXE2S1212MC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.427Z"
+}

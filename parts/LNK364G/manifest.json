@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK364G:LNK364G",
+  "name": "LNK364G",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK364G.kicad_sym",
+  "description": "LinkSwitch-XT Family, 6W Output Power, SMD-8B",
+  "datasheet": "https://www.power.com/sites/default/files/documents/linkswitch-xt_family_datasheet.pdf",
+  "keywords": "Energy Effi cient, Low Power Off-Line Switcher IC",
+  "footprint": "Package_DIP:PowerIntegrations_SMD-8B",
+  "extends": "LNK362G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK364G/",
+  "part_path": "parts/LNK364G",
+  "symbol_file": "parts/LNK364G/LNK364G.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.495Z"
+}

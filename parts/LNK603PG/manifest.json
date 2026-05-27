@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK603PG:LNK603PG",
+  "name": "LNK603PG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK603PG.kicad_sym",
+  "description": "LinkSwitch-II Family, 3.3W Output Power, DIP-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK603PG/",
+  "part_path": "parts/LNK603PG",
+  "symbol_file": "parts/LNK603PG/LNK603PG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.599Z"
+}

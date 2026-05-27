@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX17634BATP:MAX17634BATP",
+  "name": "MAX17634BATP",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX17634BATP.kicad_sym",
+  "description": "4.5V to 36V, 4.25A, High-Efficiency, Synchronous Step-Down DC-DC Converter, Fixed 5V, TQFN-20 (JEDEC WQFN)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17634A-MAX17634C.pdf",
+  "keywords": "Maxim-Integrated Analog-Devices buck-converter",
+  "footprint": "Package_DFN_QFN:TQFN-20-1EP_4x4mm_P0.5mm_EP2.9x2.9mm_ThermalVias",
+  "extends": "MAX17634AATP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX17634BATP/",
+  "part_path": "parts/MAX17634BATP",
+  "symbol_file": "parts/MAX17634BATP/MAX17634BATP.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.002Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX1522:MAX1522",
+  "name": "MAX1522",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX1522.kicad_sym",
+  "description": "Boost converter, external switch, soft-start, latch on output fault, 2.5V..5.5Vin,  SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX1522-MAX1524.pdf",
+  "keywords": "maxim analog-devices",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX1522/",
+  "part_path": "parts/MAX1522",
+  "symbol_file": "parts/MAX1522/MAX1522.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.962Z"
+}

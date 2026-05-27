@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM51561HPWP:LM51561HPWP",
+  "name": "LM51561HPWP",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM51561HPWP.kicad_sym",
+  "description": "65V Wide Vin non-synchronous Boost/SEPIC/Flyback controller (hiccup enabled), HTSSOP-14",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm5156h.pdf",
+  "keywords": "Boost SEPIC Flyback converter",
+  "footprint": "Package_SO:Texas_HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3.155x3.255mm_ThermalVias",
+  "extends": "LM5156HPWP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM51561HPWP/",
+  "part_path": "parts/LM51561HPWP",
+  "symbol_file": "parts/LM51561HPWP/LM51561HPWP.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.316Z"
+}

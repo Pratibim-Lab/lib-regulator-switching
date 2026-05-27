@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3471:LT3471",
+  "name": "LT3471",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3471.kicad_sym",
+  "description": "Dual 1.3A, 1.2MHz Boost/Inverter, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3471fb.pdf",
+  "keywords": "dc/dc converter boost inverter",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3471/",
+  "part_path": "parts/LT3471",
+  "symbol_file": "parts/LT3471/LT3471.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.723Z"
+}

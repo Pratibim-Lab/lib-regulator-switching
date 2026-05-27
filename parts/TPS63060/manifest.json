@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS63060:TPS63060",
+  "name": "TPS63060",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS63060.kicad_sym",
+  "description": "Buck-Boost Converter, 2.5-12V Input Voltage, 2-A Switch Current, Adjustable 2.5-8V Output Voltage, S-PWSON-N10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps63060.pdf",
+  "keywords": "Buck-Boost adjustable converter",
+  "footprint": "Package_SON:Texas_S-PWSON-N10_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS63060/",
+  "part_path": "parts/TPS63060",
+  "symbol_file": "parts/TPS63060/TPS63060.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.847Z"
+}

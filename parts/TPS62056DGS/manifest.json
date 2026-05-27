@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62056DGS:TPS62056DGS",
+  "name": "TPS62056DGS",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62056DGS.kicad_sym",
+  "description": "800 mA Step-Down Converter, Adjustable Output Voltage, 0.7-6V Input Voltage, TSSOP-10 (Texas DGS0010A / VSSOP)",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps62056.pdf",
+  "keywords": "voltage regulator switch mode step down",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62056DGS/",
+  "part_path": "parts/TPS62056DGS",
+  "symbol_file": "parts/TPS62056DGS/TPS62056DGS.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.694Z"
+}

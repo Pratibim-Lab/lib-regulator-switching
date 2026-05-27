@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2594HVM-12:LM2594HVM-12",
+  "name": "LM2594HVM-12",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2594HVM-12.kicad_sym",
+  "description": "12V, 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator, Maximum VIN 60V, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2594.pdf",
+  "keywords": "buck converter regulator step-down voltage simple switcher fixed",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LM2594M-3.3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2594HVM-12/",
+  "part_path": "parts/LM2594HVM-12",
+  "symbol_file": "parts/LM2594HVM-12/LM2594HVM-12.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.909Z"
+}

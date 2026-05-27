@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ISL8117FVEZ:ISL8117FVEZ",
+  "name": "ISL8117FVEZ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ISL8117FVEZ.kicad_sym",
+  "description": "Synchronous step-down PWM controller, 4.5v to 60v input, 0.6v to 54v Output Voltage, HTSSOP-16",
+  "datasheet": "https://www.renesas.com/en/document/dst/isl8117-datasheet?r=501691",
+  "keywords": "PWM step down buck converter controller synchronous POL",
+  "footprint": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ISL8117FVEZ/",
+  "part_path": "parts/ISL8117FVEZ",
+  "symbol_file": "parts/ISL8117FVEZ/ISL8117FVEZ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.630Z"
+}

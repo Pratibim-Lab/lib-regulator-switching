@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MC33063AP:MC33063AP",
+  "name": "MC33063AP",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MC33063AP.kicad_sym",
+  "description": "1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF",
+  "keywords": "smps buck boost inverting",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MC33063AP/",
+  "part_path": "parts/MC33063AP",
+  "symbol_file": "parts/MC33063AP/MC33063AP.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.056Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK563P:LNK563P",
+  "name": "LNK563P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK563P.kicad_sym",
+  "description": "LinkSwitch-LP Family, 2.5W Output Power, DIP-8B",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linklp_family_datasheet.pdf",
+  "keywords": "Energy Efficient Off-Line Switcher IC for Linear Transformer Replacement",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8B",
+  "extends": "LNK562P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK563P/",
+  "part_path": "parts/LNK563P",
+  "symbol_file": "parts/LNK563P/LNK563P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.590Z"
+}

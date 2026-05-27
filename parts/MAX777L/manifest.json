@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX777L:MAX777L",
+  "name": "MAX777L",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX777L.kicad_sym",
+  "description": "210mA, Low voltage input, step-up DC-DC converter, 5V output voltage, DIP-8/SO-8",
+  "datasheet": "https://kanga.gerbilator.org/ICs/MAX777.pdf",
+  "keywords": "switching regulator boost step-up dc-dc",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX777L/",
+  "part_path": "parts/MAX777L",
+  "symbol_file": "parts/MAX777L/MAX777L.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.039Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM3150MH:LM3150MH",
+  "name": "LM3150MH",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM3150MH.kicad_sym",
+  "description": "42V Wide Vin synchronous Buck controller, HTSSOP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm3150.pdf",
+  "keywords": "Buck step-down converter",
+  "footprint": "Package_SO:Texas_HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3.155x3.255mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM3150MH/",
+  "part_path": "parts/LM3150MH",
+  "symbol_file": "parts/LM3150MH/LM3150MH.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.268Z"
+}

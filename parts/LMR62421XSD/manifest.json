@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR62421XSD:LMR62421XSD",
+  "name": "LMR62421XSD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR62421XSD.kicad_sym",
+  "description": "2.1A, 24Vout Step-Up Voltage Regulator, 1.6MHz Frequency, WSON-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr62421.pdf",
+  "keywords": "Miniature Step-Up Boost SEPIC Voltage Regulator",
+  "footprint": "Package_SON:WSON-6-1EP_3x3mm_P0.95mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR62421XSD/",
+  "part_path": "parts/LMR62421XSD",
+  "symbol_file": "parts/LMR62421XSD/LMR62421XSD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.421Z"
+}

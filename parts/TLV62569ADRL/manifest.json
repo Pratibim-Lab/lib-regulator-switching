@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV62569ADRL:TLV62569ADRL",
+  "name": "TLV62569ADRL",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV62569ADRL.kicad_sym",
+  "description": "High Efficiency Synchronous Buck Converter with forced PWM, Adjustable Output 0.6V-5.5V, 2A, SOT-563-6",
+  "datasheet": "https://www.ti.com/lit/gpn/tlv62569a",
+  "keywords": "Step-Down Buck DC-DC Regulator Adjustable",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "TLV62568DRL",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV62569ADRL/",
+  "part_path": "parts/TLV62569ADRL",
+  "symbol_file": "parts/TLV62569ADRL/TLV62569ADRL.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.003Z"
+}

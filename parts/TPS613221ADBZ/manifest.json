@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS613221ADBZ:TPS613221ADBZ",
+  "name": "TPS613221ADBZ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS613221ADBZ.kicad_sym",
+  "description": "1.2A Step-Up Converter, 3.3V Output Voltage, 0.9-5.5V Input Voltage, SOT-23",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps61322.pdf",
+  "keywords": "Boost converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS613221ADBZ/",
+  "part_path": "parts/TPS613221ADBZ",
+  "symbol_file": "parts/TPS613221ADBZ/TPS613221ADBZ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.667Z"
+}

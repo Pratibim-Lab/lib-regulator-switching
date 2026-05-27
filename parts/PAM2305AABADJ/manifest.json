@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/PAM2305AABADJ:PAM2305AABADJ",
+  "name": "PAM2305AABADJ",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/PAM2305AABADJ.kicad_sym",
+  "description": "1A, Step-Down DC/DC-Converter, Adjustable Output Voltage, 1.5MHz, TSOT-23",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/PAM2305.pdf",
+  "keywords": "Voltage regulator switching buck fixed output analog",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "PAM2305AAB330",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/PAM2305AABADJ/",
+  "part_path": "parts/PAM2305AABADJ",
+  "symbol_file": "parts/PAM2305AABADJ/PAM2305AABADJ.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.477Z"
+}

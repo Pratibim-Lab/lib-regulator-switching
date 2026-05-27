@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TL497:TL497",
+  "name": "TL497",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TL497.kicad_sym",
+  "description": "500mA step up/step down/inverting switching voltage regulator, SIP-14/SOIC-14(W)",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl497a.pdf",
+  "keywords": "buck regulator",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TL497/",
+  "part_path": "parts/TL497",
+  "symbol_file": "parts/TL497/TL497.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.849Z"
+}

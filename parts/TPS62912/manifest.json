@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62912:TPS62912",
+  "name": "TPS62912",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62912.kicad_sym",
+  "description": "2.2MHz or 1MHz, 2A, Low Noise, Low Ripple, Buck Converter with Integrated Ferrite Bead Filter Compensation, VQFN-HR",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps62912.pdf",
+  "keywords": "step-down high psrr adjustable",
+  "footprint": "Package_DFN_QFN:Texas_RPU0010A_VQFN-HR-10_2x2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62912/",
+  "part_path": "parts/TPS62912",
+  "symbol_file": "parts/TPS62912/TPS62912.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.792Z"
+}

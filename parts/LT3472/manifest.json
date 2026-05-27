@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3472:LT3472",
+  "name": "LT3472",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3472.kicad_sym",
+  "description": "Boost and Inverting DC/DC Converter for CCD Bias, DFN-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3472f.pdf",
+  "keywords": "DC/DC converter CCD Bias Boost",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3472/",
+  "part_path": "parts/LT3472",
+  "symbol_file": "parts/LT3472/LT3472.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.725Z"
+}

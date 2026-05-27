@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS562202S:TPS562202S",
+  "name": "TPS562202S",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS562202S.kicad_sym",
+  "description": "2A Synchronous Step-Down Voltage Regulator 580kHz, Adjustable Output Voltage, 4.5-17V Input Voltage, 0.804V-7V Output Voltage, SOT-563",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps562202s.pdf",
+  "keywords": "step-down dcdc buck",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "TPS562202",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS562202S/",
+  "part_path": "parts/TPS562202S",
+  "symbol_file": "parts/TPS562202S/TPS562202S.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.553Z"
+}

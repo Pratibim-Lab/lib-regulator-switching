@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS54336ADDA:TPS54336ADDA",
+  "name": "TPS54336ADDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS54336ADDA.kicad_sym",
+  "description": "4.5V to 28V Input, 3A, Synchronous Step-Down Converter with Eco-mode(tm)",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps54336a.pdf",
+  "keywords": "Step-Down DC-DC Switching Regulator",
+  "footprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS54336ADDA/",
+  "part_path": "parts/TPS54336ADDA",
+  "symbol_file": "parts/TPS54336ADDA/TPS54336ADDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.534Z"
+}

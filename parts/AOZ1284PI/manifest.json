@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AOZ1284PI:AOZ1284PI",
+  "name": "AOZ1284PI",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AOZ1284PI.kicad_sym",
+  "description": "4A Buck Regulator, 3-36V input, 0.8-30V output, 0.2 - 2MHz, SOIC-8",
+  "datasheet": "https://www.aosmd.com/res/datasheets/AOZ1284PI.pdf",
+  "keywords": "switching buck converter",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.71x3.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AOZ1284PI/",
+  "part_path": "parts/AOZ1284PI",
+  "symbol_file": "parts/AOZ1284PI/AOZ1284PI.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.352Z"
+}

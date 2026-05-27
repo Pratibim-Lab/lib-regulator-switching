@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5165:LM5165",
+  "name": "LM5165",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5165.kicad_sym",
+  "description": "150mA Synchronous Buck Converter With Ultra-Low IQ, 3V-65V input, adjustable output voltage, DFN-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm5165.pdf",
+  "keywords": "step-down dc-dc buck regulator adjustable",
+  "footprint": "Package_SON:Texas_S-PVSON-N10_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5165/",
+  "part_path": "parts/LM5165",
+  "symbol_file": "parts/LM5165/LM5165.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.322Z"
+}

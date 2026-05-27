@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS568230:TPS568230",
+  "name": "TPS568230",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS568230.kicad_sym",
+  "description": "4.5V to 18V Input, 8A Synchronous Step-Down Voltage Regulator, VQFN-20",
+  "datasheet": "https://www.ti.com/lit/gpn/tps568230",
+  "keywords": "switching DC-DC-converter",
+  "footprint": "Package_DFN_QFN:Texas_RJE0020A_VQFN-20-1EP_3x3mm_P0.45mm_EP0.675x0.76mm",
+  "extends": "TPS51396A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS568230/",
+  "part_path": "parts/TPS568230",
+  "symbol_file": "parts/TPS568230/TPS568230.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.590Z"
+}

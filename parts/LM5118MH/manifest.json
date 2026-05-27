@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM5118MH:LM5118MH",
+  "name": "LM5118MH",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM5118MH.kicad_sym",
+  "description": "Wide Voltage Range Buck-Boost Controller, HTSSOP-20",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm5118.pdf",
+  "keywords": "Buck Boost step-up step-down",
+  "footprint": "Package_SO:Texas_PWP0020A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM5118MH/",
+  "part_path": "parts/LM5118MH",
+  "symbol_file": "parts/LM5118MH/LM5118MH.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.314Z"
+}

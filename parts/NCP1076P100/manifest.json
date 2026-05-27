@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NCP1076P100:NCP1076P100",
+  "name": "NCP1076P100",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NCP1076P100.kicad_sym",
+  "description": "High-Voltage Switcher for Low Power Offline SMPS, 700V Vds, 25W/15W, 230V/85-265V, 100kHz, 4.7Ohm Rds(on), 650mA Ipk, DIP-7",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF",
+  "keywords": "SMPS Converter",
+  "footprint": "Package_DIP:DIP-8-N7_W7.62mm",
+  "extends": "NCP1070P065",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NCP1076P100/",
+  "part_path": "parts/NCP1076P100",
+  "symbol_file": "parts/NCP1076P100/NCP1076P100.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.277Z"
+}

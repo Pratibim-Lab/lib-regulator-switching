@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ADP1108AR-3.3:ADP1108AR-3.3",
+  "name": "ADP1108AR-3.3",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ADP1108AR-3.3.kicad_sym",
+  "description": "Micropower DC-DC converter, step-up or step-down operation, 2V-30Vin, 3.3V fixed output voltage, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1108.pdf",
+  "keywords": "switching buck boost converter step-down step-up",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LT1073CS-5",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ADP1108AR-3.3/",
+  "part_path": "parts/ADP1108AR-3.3",
+  "symbol_file": "parts/ADP1108AR-3.3/ADP1108AR-3.3.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.241Z"
+}

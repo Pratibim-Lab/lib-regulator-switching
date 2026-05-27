@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR16006YQ3:LMR16006YQ3",
+  "name": "LMR16006YQ3",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR16006YQ3.kicad_sym",
+  "description": "Simple Switcher Buck Regulator, Vin=4-40V, Iout=600mA, Fixed 3.3V output voltage, SOT-23-6 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr16006y-q1.pdf",
+  "keywords": "simple-switcher buck step-down voltage-regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "LMR16006YQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR16006YQ3/",
+  "part_path": "parts/LMR16006YQ3",
+  "symbol_file": "parts/LMR16006YQ3/LMR16006YQ3.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.367Z"
+}

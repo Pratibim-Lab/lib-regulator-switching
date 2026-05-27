@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/NCP1071STBT:NCP1071STBT",
+  "name": "NCP1071STBT",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/NCP1071STBT.kicad_sym",
+  "description": "High-Voltage Switcher for Low Power Offline SMPS, 700V Vds, 14W/7.75W, 230V/85-265V, 100kHz, 22Ohm Rds(on), 350mA Ipk, SOT-223",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF",
+  "keywords": "SMPS Converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-223",
+  "extends": "NCP1070STAT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/NCP1071STBT/",
+  "part_path": "parts/NCP1071STBT",
+  "symbol_file": "parts/NCP1071STBT/NCP1071STBT.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.237Z"
+}

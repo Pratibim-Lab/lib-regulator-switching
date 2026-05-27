@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK457V:LNK457V",
+  "name": "LNK457V",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK457V.kicad_sym",
+  "description": "LinkSwitch-PL Family, 8W Output Power, eDIP-12B",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf",
+  "keywords": "LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications",
+  "footprint": "Package_DIP:PowerIntegrations_eDIP-12B",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK457V/",
+  "part_path": "parts/LNK457V",
+  "symbol_file": "parts/LNK457V/LNK457V.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.566Z"
+}

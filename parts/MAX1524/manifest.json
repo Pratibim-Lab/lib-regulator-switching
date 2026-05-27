@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX1524:MAX1524",
+  "name": "MAX1524",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX1524.kicad_sym",
+  "description": "Boost converter, 1.5V startup, external switch, soft-start, bootstrapped operation, latch on output fault, 1.5V..5.5Vin,  SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX1522-MAX1524.pdf",
+  "keywords": "maxim analog-devices",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "MAX1522",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX1524/",
+  "part_path": "parts/MAX1524",
+  "symbol_file": "parts/MAX1524/MAX1524.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.967Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX77827AEFD:MAX77827AEFD",
+  "name": "MAX77827AEFD",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX77827AEFD.kicad_sym",
+  "description": "5.5V Input, 1.8A/3.1A Switch Buck-Boost, QFN-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX77827.pdf",
+  "keywords": "Buck Boost Switching",
+  "footprint": "Package_DFN_QFN:Maxim_FC2QFN-14_2.5x2.5mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX77827AEFD/",
+  "part_path": "parts/MAX77827AEFD",
+  "symbol_file": "parts/MAX77827AEFD/MAX77827AEFD.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.043Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP1623x-xMC:MCP1623x-xMC",
+  "name": "MCP1623x-xMC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP1623x-xMC.kicad_sym",
+  "description": "Low-Voltage Input Boost Regulator for PIC Microcontrollers, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf",
+  "keywords": "Step-Up Boost DC-DC Regulator Adjustable",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "MCP1640x-xMC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP1623x-xMC/",
+  "part_path": "parts/MCP1623x-xMC",
+  "symbol_file": "parts/MCP1623x-xMC/MCP1623x-xMC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.070Z"
+}

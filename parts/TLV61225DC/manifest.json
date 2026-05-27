@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV61225DC:TLV61225DC",
+  "name": "TLV61225DC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV61225DC.kicad_sym",
+  "description": "Fixed 3.3V Output Voltage Boost Converter with Power Diode and Isolation Switch, 5uA Quiescent Current, SOT-363",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tlv61225.pdf",
+  "keywords": "Step-Up DC-DC Converter",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV61225DC/",
+  "part_path": "parts/TLV61225DC",
+  "symbol_file": "parts/TLV61225DC/TLV61225DC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.875Z"
+}

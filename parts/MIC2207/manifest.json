@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MIC2207:MIC2207",
+  "name": "MIC2207",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MIC2207.kicad_sym",
+  "description": "3A 2MHz Non-Synchronous Buck Regulator, DFN-12",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf",
+  "keywords": "adjustable switching regulator",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.5mm_EP1.7x2.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MIC2207/",
+  "part_path": "parts/MIC2207",
+  "symbol_file": "parts/MIC2207/MIC2207.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.153Z"
+}

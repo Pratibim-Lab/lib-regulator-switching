@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/ADP2108AUJ-1.5:ADP2108AUJ-1.5",
+  "name": "ADP2108AUJ-1.5",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/ADP2108AUJ-1.5.kicad_sym",
+  "description": "3MHz switching bucK regulator, 600mA 1.5V output voltage,",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf",
+  "keywords": "Voltage regulator switching buck fixed output analog",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "ADP2108AUJ-1.0",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/ADP2108AUJ-1.5/",
+  "part_path": "parts/ADP2108AUJ-1.5",
+  "symbol_file": "parts/ADP2108AUJ-1.5/ADP2108AUJ-1.5.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.259Z"
+}

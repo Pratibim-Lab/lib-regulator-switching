@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2675M-3.3:LM2675M-3.3",
+  "name": "LM2675M-3.3",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2675M-3.3.kicad_sym",
+  "description": "3.3V, 1A Step-Down Voltage Regulator, SO-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2675.pdf",
+  "keywords": "Step-Down Voltage Regulator 3.3V 1A",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LM2674M-12",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2675M-3.3/",
+  "part_path": "parts/LM2675M-3.3",
+  "symbol_file": "parts/LM2675M-3.3/LM2675M-3.3.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.222Z"
+}

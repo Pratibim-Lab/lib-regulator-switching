@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TL5001A:TL5001A",
+  "name": "TL5001A",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TL5001A.kicad_sym",
+  "description": "PWM Controller with wide input range, with 3% tolerance on reference. Input range 3.6-40V. Max output 50V.",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tl5001a.pdf",
+  "keywords": "PWM SMPS",
+  "footprint": "",
+  "extends": "TL5001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TL5001A/",
+  "part_path": "parts/TL5001A",
+  "symbol_file": "parts/TL5001A/TL5001A.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.860Z"
+}

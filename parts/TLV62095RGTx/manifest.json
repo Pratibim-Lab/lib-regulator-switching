@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TLV62095RGTx:TLV62095RGTx",
+  "name": "TLV62095RGTx",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TLV62095RGTx.kicad_sym",
+  "description": "High efficiency step-down converter",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tlv62095.pdf",
+  "keywords": "Synchronous Buck",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TLV62095RGTx/",
+  "part_path": "parts/TLV62095RGTx",
+  "symbol_file": "parts/TLV62095RGTx/TLV62095RGTx.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.908Z"
+}

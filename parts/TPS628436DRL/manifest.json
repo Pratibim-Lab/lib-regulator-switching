@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS628436DRL:TPS628436DRL",
+  "name": "TPS628436DRL",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS628436DRL.kicad_sym",
+  "description": "600mA Step-Down Converter with DCS-Control, ultra-low Iq, 1.8-5.5 Vin, 0.4-0.8 Vout, SOT-563",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps62843.pdf",
+  "keywords": "TI buck regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS628436DRL/",
+  "part_path": "parts/TPS628436DRL",
+  "symbol_file": "parts/TPS628436DRL/TPS628436DRL.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.779Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT8705AxFE:LT8705AxFE",
+  "name": "LT8705AxFE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT8705AxFE.kicad_sym",
+  "description": "Synchronous 4-Switch Buck-Boost DC/DC Controller, 2.8..80V VIN, 1.3..80V VOUT, 100-400kHz, HTSSOP-38(31)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/8705af.pdf",
+  "keywords": "Analog-Devices Linear-Technology soft-start",
+  "footprint": "Package_SO:Linear_HTSSOP-31-38-1EP_4.4x9.7mm_P0.5mm_EP2.74x4.75mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT8705AxFE/",
+  "part_path": "parts/LT8705AxFE",
+  "symbol_file": "parts/LT8705AxFE/LT8705AxFE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.765Z"
+}

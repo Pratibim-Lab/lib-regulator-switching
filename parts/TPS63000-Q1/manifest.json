@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS63000-Q1:TPS63000-Q1",
+  "name": "TPS63000-Q1",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS63000-Q1.kicad_sym",
+  "description": "Buck-Boost Converter, 1.8-5.5V Input Voltage, 1.8A Switch Current, Adjustable 1.2-5.5V Output Voltage, Automotive, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps63000-q1.pdf",
+  "keywords": "Buck-Boost adjustable converter",
+  "footprint": "Package_SON:Texas_DRC0010J_ThermalVias",
+  "extends": "TPS63000",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS63000-Q1/",
+  "part_path": "parts/TPS63000-Q1",
+  "symbol_file": "parts/TPS63000-Q1/TPS63000-Q1.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.832Z"
+}

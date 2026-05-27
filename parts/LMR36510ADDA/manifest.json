@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LMR36510ADDA:LMR36510ADDA",
+  "name": "LMR36510ADDA",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LMR36510ADDA.kicad_sym",
+  "description": "Simple Switcher Synchronous Buck Regulator, Vin=4.2-65V, Iout=1A, F=400kHz, Adjustable output voltage, HSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmr36510.pdf",
+  "keywords": "synchronous buck step-down",
+  "footprint": "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LMR36510ADDA/",
+  "part_path": "parts/LMR36510ADDA",
+  "symbol_file": "parts/LMR36510ADDA/LMR36510ADDA.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.406Z"
+}

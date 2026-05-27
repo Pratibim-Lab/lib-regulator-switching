@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM2611xMF:LM2611xMF",
+  "name": "LM2611xMF",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM2611xMF.kicad_sym",
+  "description": "1.4MHz Cuk Converter, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm2611.pdf",
+  "keywords": "switched converter inverter PWM",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM2611xMF/",
+  "part_path": "parts/LM2611xMF",
+  "symbol_file": "parts/LM2611xMF/LM2611xMF.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.173Z"
+}

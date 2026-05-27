@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LTC3245xDE:LTC3245xDE",
+  "name": "LTC3245xDE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LTC3245xDE.kicad_sym",
+  "description": "Wide VIN Range, Low Noise, 250mA Buck-Boost Charge Pump, DFN-12",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc3245.pdf",
+  "keywords": "widerange  lownoise buckboost chargepump",
+  "footprint": "Package_DFN_QFN:DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LTC3245xDE/",
+  "part_path": "parts/LTC3245xDE",
+  "symbol_file": "parts/LTC3245xDE/LTC3245xDE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.788Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP256PN:TOP256PN",
+  "name": "TOP256PN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP256PN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 26W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8C",
+  "extends": "TOP252PN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP256PN/",
+  "part_path": "parts/TOP256PN",
+  "symbol_file": "parts/TOP256PN/TOP256PN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.368Z"
+}

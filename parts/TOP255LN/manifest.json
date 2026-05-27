@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP255LN:TOP255LN",
+  "name": "TOP255LN",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP255LN.kicad_sym",
+  "description": "TOPSwitch-HX Family, 57W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_SIP:PowerIntegrations_eSIP-7F",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP255LN/",
+  "part_path": "parts/TOP255LN",
+  "symbol_file": "parts/TOP255LN/TOP255LN.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.350Z"
+}

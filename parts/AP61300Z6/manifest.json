@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/AP61300Z6:AP61300Z6",
+  "name": "AP61300Z6",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/AP61300Z6.kicad_sym",
+  "description": "2.4V-5.5V input voltage, 0.6V-3.6V adjustable output voltage, 3A output current, Low IQ Synchronous Buck Converter, PFM/PWM, SOT-563",
+  "datasheet": "https://www.diodes.com/datasheet/download/AP61300%2FAP61302.pdf",
+  "keywords": "2.2MHz PFM/PWM DC/DC AP61300QZ6",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "AP61200Z6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/AP61300Z6/",
+  "part_path": "parts/AP61300Z6",
+  "symbol_file": "parts/AP61300Z6/AP61300Z6.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.382Z"
+}

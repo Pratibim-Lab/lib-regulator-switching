@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62933F:TPS62933F",
+  "name": "TPS62933F",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62933F.kicad_sym",
+  "description": "3.8-30V, 3A Synchronous Buck Converters with forced continuous conduction mode (FCCM), SOT583-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps62933.pdf",
+  "keywords": "synchronous buck converter forced continuous conduction mode",
+  "footprint": "Package_TO_SOT_SMD:SOT-583-8",
+  "extends": "TPS62933",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62933F/",
+  "part_path": "parts/TPS62933F",
+  "symbol_file": "parts/TPS62933F/TPS62933F.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.802Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS563208:TPS563208",
+  "name": "TPS563208",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS563208.kicad_sym",
+  "description": "3A Synchronous Step-Down Voltage Regulator, 4.5-17V Input Voltage, 0.76V to 7V Output Voltage, FCCM mode, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps563208.pdf",
+  "keywords": "step-down dcdc voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "TPS562200",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS563208/",
+  "part_path": "parts/TPS563208",
+  "symbol_file": "parts/TPS563208/TPS563208.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.571Z"
+}

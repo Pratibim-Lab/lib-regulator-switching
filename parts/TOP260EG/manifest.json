@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TOP260EG:TOP260EG",
+  "name": "TOP260EG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TOP260EG.kicad_sym",
+  "description": "TOPSwitch-HX Family, 200W Output Power",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+  "keywords": "Eco Smart Off-Line Switcher Extendend Power Range",
+  "footprint": "Package_SIP:PowerIntegrations_eSIP-7C",
+  "extends": "TOP252EN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TOP260EG/",
+  "part_path": "parts/TOP260EG",
+  "symbol_file": "parts/TOP260EG/TOP260EG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.413Z"
+}

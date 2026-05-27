@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/KA5L0265RYDTU:KA5L0265RYDTU",
+  "name": "KA5L0265RYDTU",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/KA5L0265RYDTU.kicad_sym",
+  "description": "50kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_TO_SOT_THT:ONSemi_TO-220F-4L_Forming",
+  "extends": "KA5M0265RYDTU",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/KA5L0265RYDTU/",
+  "part_path": "parts/KA5L0265RYDTU",
+  "symbol_file": "parts/KA5L0265RYDTU/KA5L0265RYDTU.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.646Z"
+}

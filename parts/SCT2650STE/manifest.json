@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/SCT2650STE:SCT2650STE",
+  "name": "SCT2650STE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/SCT2650STE.kicad_sym",
+  "description": "5A Buck Regulator, 4.5-60V input, 100kHz..1.2MHz adjustable frequency, pulse skipping mode (PSM) at light load, SOIC-8 (SOP-8)",
+  "datasheet": "https://www.silicontent.com//uploads/20241024/862bd33cde0b5cf82cc861cd1faade3b.pdf",
+  "keywords": "silicontent silicon-content switching step-down",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/SCT2650STE/",
+  "part_path": "parts/SCT2650STE",
+  "symbol_file": "parts/SCT2650STE/SCT2650STE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.598Z"
+}

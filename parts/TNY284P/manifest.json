@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY284P:TNY284P",
+  "name": "TNY284P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY284P.kicad_sym",
+  "description": "TinySwitch-4 Family, 8.5W Output Power, PDIP-8C",
+  "datasheet": "https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8C",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY284P/",
+  "part_path": "parts/TNY284P",
+  "symbol_file": "parts/TNY284P/TNY284P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.217Z"
+}

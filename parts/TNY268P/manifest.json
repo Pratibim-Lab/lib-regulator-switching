@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY268P:TNY268P",
+  "name": "TNY268P",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY268P.kicad_sym",
+  "description": "TinySwitch-II Family, 15W Output Power, DIP-8B",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf",
+  "keywords": "Enhanced, Energy Efficient, Low Power Off-line Switcher",
+  "footprint": "Package_DIP:PowerIntegrations_PDIP-8B",
+  "extends": "TNY263P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY268P/",
+  "part_path": "parts/TNY268P",
+  "symbol_file": "parts/TNY268P/TNY268P.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.170Z"
+}

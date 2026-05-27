@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP1640Cx-xMC:MCP1640Cx-xMC",
+  "name": "MCP1640Cx-xMC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP1640Cx-xMC.kicad_sym",
+  "description": "Synchronous Boost Regulator, Adjustable Output 2.0V-5.5V, PWM/PFM Input to Output Bypass, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002234D.pdf",
+  "keywords": "Step-Up Boost DC-DC Regulator Adjustable",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm",
+  "extends": "MCP1640x-xMC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP1640Cx-xMC/",
+  "part_path": "parts/MCP1640Cx-xMC",
+  "symbol_file": "parts/MCP1640Cx-xMC/MCP1640Cx-xMC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.113Z"
+}

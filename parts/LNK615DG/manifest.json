@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LNK615DG:LNK615DG",
+  "name": "LNK615DG",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LNK615DG.kicad_sym",
+  "description": "LinkSwitch-II Family, 5.1W Output Power, SO-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf",
+  "keywords": "Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers",
+  "footprint": "Package_SO:PowerIntegrations_SO-8C",
+  "extends": "LNK603DG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LNK615DG/",
+  "part_path": "parts/LNK615DG",
+  "symbol_file": "parts/LNK615DG/LNK615DG.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.626Z"
+}

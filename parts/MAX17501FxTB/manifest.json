@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MAX17501FxTB:MAX17501FxTB",
+  "name": "MAX17501FxTB",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MAX17501FxTB.kicad_sym",
+  "description": "4.5V–60Vin, 500mA, High-Efficiency, 5V Synchronous Step-Down DC-DC Converter, PWM Mode, DFN-10",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX17501.pdf",
+  "keywords": "Step-down dc-dc switching regulator",
+  "footprint": "Package_DFN_QFN:TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm",
+  "extends": "MAX17501AxTB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MAX17501FxTB/",
+  "part_path": "parts/MAX17501FxTB",
+  "symbol_file": "parts/MAX17501FxTB/MAX17501FxTB.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.980Z"
+}

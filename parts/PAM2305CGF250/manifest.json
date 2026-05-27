@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/PAM2305CGF250:PAM2305CGF250",
+  "name": "PAM2305CGF250",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/PAM2305CGF250.kicad_sym",
+  "description": "1A, Step-Down DC/DC-Converter, 2.5V Fixed Output Voltage, 1.5MHz, DFN-6",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/PAM2305.pdf",
+  "keywords": "Voltage regulator switching buck fixed output analog",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "PAM2305CGF330",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/PAM2305CGF250/",
+  "part_path": "parts/PAM2305CGF250",
+  "symbol_file": "parts/PAM2305CGF250/PAM2305CGF250.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.522Z"
+}

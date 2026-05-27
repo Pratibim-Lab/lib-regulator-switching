@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/BD8314NUV:BD8314NUV",
+  "name": "BD8314NUV",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/BD8314NUV.kicad_sym",
+  "description": "3.0V to 12V, Integrated 2.5A MOSFET 1ch Boost Converter, VSON-10",
+  "datasheet": "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf",
+  "keywords": "DCDC converter",
+  "footprint": "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/BD8314NUV/",
+  "part_path": "parts/BD8314NUV",
+  "symbol_file": "parts/BD8314NUV/BD8314NUV.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.471Z"
+}

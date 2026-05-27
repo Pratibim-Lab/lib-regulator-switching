@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT8306:LT8306",
+  "name": "LT8306",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT8306.kicad_sym",
+  "description": "4.5-60Vin micropower isolated flyback controller, no-optoisolator, 8V NMOS gate drive, TSOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8306.pdf",
+  "keywords": "switcher",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT8306/",
+  "part_path": "parts/LT8306",
+  "symbol_file": "parts/LT8306/LT8306.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.755Z"
+}

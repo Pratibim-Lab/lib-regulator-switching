@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP16331x-xCH:MCP16331x-xCH",
+  "name": "MCP16331x-xCH",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP16331x-xCH.kicad_sym",
+  "description": "High-Voltage Input Integrated Switch Step-Down Regulator, VDD +4.4V to 50V, Out +2.0V to +24V, SOT-23",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005308C.pdf",
+  "keywords": "High-Voltage Input Integrated Switch Step-Down Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP16331x-xCH/",
+  "part_path": "parts/MCP16331x-xCH",
+  "symbol_file": "parts/MCP16331x-xCH/MCP16331x-xCH.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.096Z"
+}

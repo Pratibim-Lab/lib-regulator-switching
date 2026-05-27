@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TNY277G:TNY277G",
+  "name": "TNY277G",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TNY277G.kicad_sym",
+  "description": "TinySwitch-III Family, 18W Output Power, SMD-8C",
+  "datasheet": "http://www.powerint.com/sites/default/files/product-docs/tny274-280.pdf",
+  "keywords": "Energy-Efficient, Off-Line Switcher With Enhanced Flexibility and Extended Power Range",
+  "footprint": "Package_DIP:PowerIntegrations_SMD-8C",
+  "extends": "TNY274G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TNY277G/",
+  "part_path": "parts/TNY277G",
+  "symbol_file": "parts/TNY277G/TNY277G.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.191Z"
+}

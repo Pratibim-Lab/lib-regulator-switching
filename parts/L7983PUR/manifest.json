@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/L7983PUR:L7983PUR",
+  "name": "L7983PUR",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/L7983PUR.kicad_sym",
+  "description": "3.5-60V input, 0.85-60V adjustable output, 300 mA synchronous step-down switching regulator with 10 μA quiescent current, DFN-10",
+  "datasheet": "https://www.st.com/resource/en/datasheet/l7983.pdf",
+  "keywords": "buck",
+  "footprint": "Package_DFN_QFN:ST_DFN-10-1EP_3x3mm_P0.5mm_EP0.62x0.98mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/L7983PUR/",
+  "part_path": "parts/L7983PUR",
+  "symbol_file": "parts/L7983PUR/L7983PUR.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.682Z"
+}

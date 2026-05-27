@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/MCP16301Hx-xCH:MCP16301Hx-xCH",
+  "name": "MCP16301Hx-xCH",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/MCP16301Hx-xCH.kicad_sym",
+  "description": "1A, 4.7 to 36V Input, High Voltage Input integrated switch step-down regulator, SOT-23-6",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005004D.pdf",
+  "keywords": "switching buck converter power-supply voltage regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "MCP16301x-xCH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/MCP16301Hx-xCH/",
+  "part_path": "parts/MCP16301Hx-xCH",
+  "symbol_file": "parts/MCP16301Hx-xCH/MCP16301Hx-xCH.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:39.072Z"
+}

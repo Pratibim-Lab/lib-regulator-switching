@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT3757AEMSE:LT3757AEMSE",
+  "name": "LT3757AEMSE",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT3757AEMSE.kicad_sym",
+  "description": "Boost, flyback, SEPIC and inverting regulator, improved load transient performance, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf",
+  "keywords": "Boost flyback SEPIC inverting DC/DC regulator",
+  "footprint": "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm",
+  "extends": "LT3757EMSE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT3757AEMSE/",
+  "part_path": "parts/LT3757AEMSE",
+  "symbol_file": "parts/LT3757AEMSE/LT3757AEMSE.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.741Z"
+}

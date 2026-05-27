@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LT8303:LT8303",
+  "name": "LT8303",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LT8303.kicad_sym",
+  "description": "100VIN Micropower Isolated Flyback Converter with 150V/450mA Switch, TSOT-23-5",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/8303fa.pdf",
+  "keywords": "Flyback switcher",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LT8303/",
+  "part_path": "parts/LT8303",
+  "symbol_file": "parts/LT8303/LT8303.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.751Z"
+}

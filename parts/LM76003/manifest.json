@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/LM76003:LM76003",
+  "name": "LM76003",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/LM76003.kicad_sym",
+  "description": "3.5A synchronous buck regulator, 3.5..60Vin, 300kHz..2.2MHz switching frequency, CCM/DCM & PFM at light load, WQFN-30",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm76003.pdf",
+  "keywords": "texas switching step-down",
+  "footprint": "Package_DFN_QFN:Texas_RNP0030B_WQFN-30-1EP_4x6mm_P0.5mm_EP1.8x4.5mm_ThermalVias",
+  "extends": "LM76002",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/LM76003/",
+  "part_path": "parts/LM76003",
+  "symbol_file": "parts/LM76003/LM76003.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:38.346Z"
+}

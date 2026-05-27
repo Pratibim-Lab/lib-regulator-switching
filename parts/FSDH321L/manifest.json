@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/FSDH321L:FSDH321L",
+  "name": "FSDH321L",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/FSDH321L.kicad_sym",
+  "description": "17W SMPS Controller, 100kHz, AC-DC, SMD-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/FSDH321JP-D.pdf",
+  "keywords": "SMPS Controller with MOSFET 17W AC-DC",
+  "footprint": "Package_DIP:Fairchild_LSOP-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/FSDH321L/",
+  "part_path": "parts/FSDH321L",
+  "symbol_file": "parts/FSDH321L/FSDH321L.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:37.565Z"
+}

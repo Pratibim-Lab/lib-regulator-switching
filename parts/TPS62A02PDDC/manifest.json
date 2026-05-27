@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Switching/TPS62A02PDDC:TPS62A02PDDC",
+  "name": "TPS62A02PDDC",
+  "library": "Regulator_Switching",
+  "file": "Regulator_Switching.kicad_symdir/TPS62A02PDDC.kicad_sym",
+  "description": "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, Power Good, Enable, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/gpn/tps62a02",
+  "keywords": "Step-Down DC-DC Regulator",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "TPS62A01PDDC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switching@master/parts/TPS62A02PDDC/",
+  "part_path": "parts/TPS62A02PDDC",
+  "symbol_file": "parts/TPS62A02PDDC/TPS62A02PDDC.kicad_sym",
+  "source_library": "Regulator_Switching.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:40.829Z"
+}
